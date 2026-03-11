@@ -1,0 +1,29 @@
+item,value
+Snapshot ID,S-BASE-2025-10-10
+Timestamp (UTC),2026-03-10T21:09:06.177202+00:00
+Brightway project,pCLCA_CA_2025_contemp
+Database name,ecoinvent_3.10.1.1_consequential_unitprocess
+Base role,Frozen contemporary baseline background
+Python,3.11.14
+Platform,Windows-10-10.0.26200-SP0
+bw2data,4.5.3
+bw2io,0.9.11
+bw2calc,2.2.2
+premise,2.3.2
+Activities,20772
+Total exchanges,610085
+Technosphere exchanges,254178
+Biosphere exchanges,355907
+Production exchanges,20772
+Substitution exchanges,0
+Unique locations,330
+Activities missing location,0
+Missing input references,0
+Missing input database references,0
+Broken internal technosphere links,0
+Unexpected external technosphere dependencies,0
+Biosphere databases detected,ecoinvent-3.10-biosphere
+Matrix processable,TRUE
+Matrix process message,ok
+Label hash,d065e11abbeeb4119849ef7dff86112a8b5a3d32
+Record SHA-256,16b38746bebe1c2a5c7c677789057a1b47f5f279c3117e89b4504298f89cfb54

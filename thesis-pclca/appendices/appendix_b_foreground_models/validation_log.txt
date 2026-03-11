@@ -1,0 +1,56 @@
+Appendix B Validation Log
+================================================================================
+Timestamp: 2026-03-11T13:55:40
+Repo root: C:\brightway_workspace\repo\thesis-pclca
+Source dir: C:\brightway_workspace\repo_support\appendix_b_sources
+
+Expected source files
+--------------------------------------------------------------------------------
+[FOUND]   C:\brightway_workspace\repo_support\appendix_b_sources\build_al_base_routes_contemp_NET_v16_26.02.24.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_b_sources\build_al_base_routes_prospect_NET_v11_26.02.11.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_b_sources\c3c4_staged_msfsc_degrease_shred_al_credits_QC_elec_contemporary_v13_26.02.16.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_b_sources\c3c4_staged_msfsc_degrease_shred_al_credits_CA_elec_prospect_v21_26.02.16.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_b_sources\c3c4_staged_al_hydrolysis_PSA_h2_AlOH3_credits_AB_elec_contemporary_v16_26.02.02.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_b_sources\c3c4_staged_al_hydrolysis_PSA_h2_AlOH3_credits_CA_elec_prospect_v15_26.02.15.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_b_sources\build_nonpriority_c3c4_stageD_CA_localized_v7_26.01.09.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_b_sources\build_nonpriority_c3c4_stageD_CA_localized_PROSPECTIVE_multiBG_v2_26.01.10.py
+[MISSING] C:\brightway_workspace\repo_support\appendix_b_sources\run_nonpriority_contemporary_gwp100_v1.py
+[MISSING] C:\brightway_workspace\repo_support\appendix_b_sources\run_nonpriority_prospective_multiBG_gwp100_v1.py
+
+Excel source
+--------------------------------------------------------------------------------
+C:\brightway_workspace\repo_support\appendix_b_sources\Thesis SI Content.xlsx
+
+Non-priority log sources used
+--------------------------------------------------------------------------------
+contemporary_detailed: C:\brightway_workspace\repo_support\appendix_b_sources\nonpriority_contemporary_detailed_20260310-172940.csv
+contemporary_totals: C:\brightway_workspace\repo_support\appendix_b_sources\nonpriority_contemporary_totals_20260310-172940.csv
+prospective_detailed: C:\brightway_workspace\repo_support\appendix_b_sources\nonpriority_prospective_detailed_20260310-173013.csv
+prospective_totals: C:\brightway_workspace\repo_support\appendix_b_sources\nonpriority_prospective_totals_20260310-173013.csv
+
+Output row counts
+--------------------------------------------------------------------------------
+b1: 11
+b2: 26
+b3: 5
+b4: 6
+b5: 8
+b6: 9
+b7: 4
+b8: 11
+b9: 8
+route_manifest: 6
+parameter_manifest: 17
+worked_examples: 8
+excluded_no_wrapper: 2
+found_source_files: 8
+missing_named_sources: 2
+
+Warnings
+--------------------------------------------------------------------------------
+- Could not parse NONPRIORITY_BASIS from non-priority run scripts. Using embedded fallback basis.
+- Could not parse EXCLUDED_NO_WRAPPER from non-priority run scripts. Using embedded fallback exclusions.
+
+Interpretation note
+--------------------------------------------------------------------------------
+This log confirms source discovery, selected log use, and output creation only. It does not guarantee that every thesis-facing label is semantically perfect. High-stakes tables should still be spot-checked against the appendix draft and the source Excel/log files.

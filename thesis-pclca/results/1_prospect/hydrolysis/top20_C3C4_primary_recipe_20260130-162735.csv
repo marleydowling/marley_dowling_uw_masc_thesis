@@ -1,0 +1,21 @@
+rank,contribution,database,code,location,name,activity_key,index
+1,1.4015746474053146e-13,prospective_conseq_IMAGE_SSP2M_2050_PERF,7394813534664865b34056d067d0c51d,GLO,"treatment of digester sludge, municipal incineration",255874383930793984,62564
+2,8.770431843576318e-15,mtcw_foreground_prospective,h2_purification_psa_service_CA__SSP2M_2050,CA,H2 purification service (PSA proxy; CA-proxy; elec CA/QC fallback) [SSP2M_2050],274890117411315712,106898
+3,-8.57956975655757e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,98663c0f6f4c4584bd9fec99db8051db,PL,"heat and power co-generation, hard coal",255874439203332096,67218
+4,-6.036379187183963e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,cacce724a4fb4e329de3e29ecdbe1ce4,PL,"heat and power co-generation, lignite",255874417325842432,65320
+5,3.986289043081498e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,6f3b53a4f2f541d4a40d0fbe85b78eb6,RoW,"heat production, wood pellet, at furnace 9kW, state-of-the-art 2014",255874288585875456,54086
+6,3.758969790369148e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,d01b197fa7fb4e4cab824ef2fe135739,RoW,"heat and power co-generation, natural gas, 200kW electrical, lean burn",255874364645384192,60580
+7,-2.9383378889413987e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,1e2c97a9085542878a9433192fda0154,DE,"heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",255874398510194688,63821
+8,2.899419736465472e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,674a7dfcfc5d427c80ce5770ed100c1c,RoW,anaerobic digestion of manure,255874417380368384,65330
+9,-2.6020000392320318e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,42f8086fe0314acbbd9d82571889b84e,FI,"heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",255874359142457344,60217
+10,-2.5533964480983438e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,490565316c224e1880db10bc516d5b65,SE,"heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",255874451693969408,68346
+11,2.5481203074572662e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,4e84d833e11b4f559a1c04fe044915d9,GLO,natural gas venting from petroleum/natural gas production,255874294147522561,54637
+12,2.409236485803756e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,01faf805f6194336a0a632dd9b08f515,RoW,clinker production,255874452658659328,68439
+13,-2.315724149208021e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,db2607aab11d478eb06b1ef9a6d59f4b,PL,"heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",255874451018686468,68284
+14,-1.9603712759750424e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,eace170c73a940a4983d508fa0fef3c5,DE,"heat and power co-generation, hard coal",255874302536130560,55292
+15,-1.9071522730290454e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,1e32580bddc04251826911e67d5df4d2,CZ,"heat and power co-generation, lignite",255874484443095040,70868
+16,1.8799888342311156e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,5118559e40fb4cc2bc83e6e78574f5ed,IT,"heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical",255874381829447680,62330
+17,-1.8545980008293797e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,1f7df18c59de44c88cacd2d493cc286b,RoW,"heat production, at hard coal industrial furnace 1-10MW",255874338577784832,58520
+18,-1.7123090202702127e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,8510ad902d9d41cd9bb5fafc32eb33c4,GB,"heat and power co-generation, wood chips, 6667 kW, state-of-the-art 2014",255874398837350400,63876
+19,-1.6635719634849703e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,6df36fd4328341e98f463829c94c38d1,CA,"aluminium production, primary, liquid, prebake",255874353278820352,59684
+20,1.3996520872998033e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,cec63c5dde804d6c9262f930351e7558,RU,"heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical",255874422967181312,65882

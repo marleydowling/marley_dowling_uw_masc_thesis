@@ -1,0 +1,35 @@
+{
+  "version": "msfsc_joint_param_spec_v3 (revised + myop->perf rewrite)",
+  "timestamp": "20260227-141318",
+  "central_2050": {
+    "SHRED_YIELD": 0.8,
+    "SHREDDING_ELEC_KWH_PER_KG_SCRAP": 0.3,
+    "SHREDDING_ELEC_VOLTAGE_CLASS": "mv",
+    "DEGREASE_SCALE": 0.446429,
+    "FSC_YIELD": 0.952,
+    "FSC_A_MJ_PER_20G": 0.267,
+    "FSC_B_MJ_PER_20G": 0.355,
+    "FSC_ELEC_VOLTAGE_CLASS": "mv",
+    "FSC_LUBE_KG_PER_KG_BILLET": 0.02,
+    "STAGED_SUB_RATIO": 1.0,
+    "PASS_SHARE_CENTRAL": 1.0
+  },
+  "derived": {
+    "A_kWh_per_kg_billet": 3.7083333333333335,
+    "B_kWh_per_kg_billet": 4.930555555555555
+  },
+  "levers": {
+    "f_transition": {
+      "mapping": "elec_total = A + f_transition*B"
+    },
+    "pass_share": {
+      "mapping": "stageD_credit = -sub_ratio * pass_share"
+    }
+  },
+  "notes": [
+    "Stage D credit proxies are aligned to your custom baseline/inert primary aluminium system.",
+    "Scaled proxies use deterministic wrapper coefficients (no rescaling of uncertainty params).",
+    "Purge is SAFE: does not resolve exc.input; cleans raw keys; can rewrite MYOP->PERF references.",
+    "Optional stripping of non-waste negative market outputs in RAW template clones."
+  ]
+}

@@ -1,0 +1,9 @@
+example,input_basis,formula,result,units
+Example 1 - MS-FSC billet realization,1.0 kg prepared scrap,1.0 * 0.80 * 0.952,0.7616,kg billet-equivalent
+Example 2 - MS-FSC productive electricity,A term,0.267 / 0.020 / 3.6,3.708,kWh/kg billet
+Example 2 - MS-FSC transition electricity,B term,0.355 / 0.020 / 3.6,4.931,kWh/kg billet
+Example 2 - MS-FSC contemporary total electricity,A + B,3.708 + 4.931,8.639,kWh/kg billet
+Example 2 - MS-FSC prospective total electricity,A only,3.708,3.708,kWh/kg billet
+Example 3 - Hydrolysis reacted aluminium (contemporary),1.0 kg gate-entry scrap,1.0 * 0.80 * 1.00 * 0.85,0.68,kg reacted Al
+Example 4 - Hydrolysis liquor demand (contemporary),1.0 kg gate-entry scrap,0.68 * 250,170.0,L liquor
+Example 4 - Hydrolysis liquor demand (prospective),1.0 kg gate-entry scrap,0.85 * 150,127.5,L liquor

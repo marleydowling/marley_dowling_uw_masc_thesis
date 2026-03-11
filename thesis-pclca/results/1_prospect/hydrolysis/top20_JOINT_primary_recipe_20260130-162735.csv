@@ -1,0 +1,21 @@
+rank,contribution,database,code,location,name,activity_key,index
+1,1.4015746474053146e-13,prospective_conseq_IMAGE_SSP2M_2050_PERF,7394813534664865b34056d067d0c51d,GLO,"treatment of digester sludge, municipal incineration",255874383930793984,62564
+2,-9.250789014588585e-14,prospective_conseq_IMAGE_SSP5H_2050_PERF,75d7a42bf3664f8496cbc4757c6e381b,RoW,"heat production, at hard coal industrial furnace 1-10MW",255875421836484608,85184
+3,1.190395340184361e-14,prospective_conseq_IMAGE_SSP5H_2050_PERF,91355fd959a9492aa52bf929fec5ea46,CA,"aluminium production, primary, liquid, prebake",255875437611261952,86348
+4,8.770431843576318e-15,mtcw_foreground_prospective,h2_purification_psa_service_CA__SSP2M_2050,CA,H2 purification service (PSA proxy; CA-proxy; elec CA/QC fallback) [SSP2M_2050],274890117411315712,106898
+5,-8.57956975655757e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,98663c0f6f4c4584bd9fec99db8051db,PL,"heat and power co-generation, hard coal",255874439203332096,67218
+6,8.562353059738276e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,adac50a5424b463b8440ccddeeacf8a5,DE,"electricity production, lignite",255875509241585664,92228
+7,-7.751801750331987e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,8832f4cc0889437487717de844346b41,CN,hard coal mine operation and hard coal preparation,255875479977926656,89800
+8,-7.083261203345712e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,c995df411f3f4c6bb42a3d11f23c25d7,RoW,"heat and power co-generation, lignite",255875519169503232,93041
+9,-6.2576484453608815e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,b39a69aab0a146e5bca1121cf4e730ed,IT,"heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical",255875468930129920,88994
+10,-6.1400214510009356e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,d9d227caff0048f88a7fcc9f6d791542,RoW,"heat production, heavy fuel oil, at industrial furnace 1MW",255875400500060160,83649
+11,-6.036379187183963e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,cacce724a4fb4e329de3e29ecdbe1ce4,PL,"heat and power co-generation, lignite",255874417325842432,65320
+12,-5.926660073505502e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,052d7b6f4d1a41729f59feda4aa3b9ac,GLO,natural gas venting from petroleum/natural gas production,255875371127349249,81301
+13,-5.367194422443385e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,8e3a5f2e2a4a4e80b8ac799b044ecddc,RoW,"heat and power co-generation, natural gas, 200kW electrical, lean burn",255875447174275072,87244
+14,5.171748705600687e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,2a06cf45c2294bd7ade3a7335bb5407e,GB,"electricity production, hard coal",255875440731824128,86680
+15,4.4557692622893504e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,97b9343d216044b696410f492bb2b1f5,DE,"electricity production, hard coal",255875541873270784,94747
+16,-4.371598522420663e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,793f1061efd94b76b167e55d61c2ac96,RoW,"quicklime production, in pieces, loose",255875388978307072,82657
+17,-4.3572883022254095e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,9a2f855639b3402a89e2805dc22c9e70,GLO,"transport, freight, sea, bulk carrier for dry goods",255875607396687872,100234
+18,3.986289043081498e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,6f3b53a4f2f541d4a40d0fbe85b78eb6,RoW,"heat production, wood pellet, at furnace 9kW, state-of-the-art 2014",255874288585875456,54086
+19,3.758969790369148e-15,prospective_conseq_IMAGE_SSP2M_2050_PERF,d01b197fa7fb4e4cab824ef2fe135739,RoW,"heat and power co-generation, natural gas, 200kW electrical, lean burn",255874364645384192,60580
+20,3.693780121984085e-15,prospective_conseq_IMAGE_SSP5H_2050_PERF,c6c75d7352894cebbb818bf4199532b1,RoW,"heat production, wood chips from industry, at furnace 5000kW",255875384364572672,82297

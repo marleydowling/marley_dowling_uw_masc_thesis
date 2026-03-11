@@ -1,0 +1,32 @@
+Appendix A Validation Log
+================================================================================
+Timestamp: 2026-03-11T13:11:09
+Repo root: C:\brightway_workspace\repo\thesis-pclca
+Source dir: C:\brightway_workspace\repo_support\appendix_a_sources
+
+Expected builder files
+--------------------------------------------------------------------------------
+[FOUND]   C:\brightway_workspace\repo_support\appendix_a_sources\build_al_base_routes_contemp_NET_v16_26.02.24.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_a_sources\build_al_base_routes_prospect_NET_v11_26.02.11.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_a_sources\c3c4_staged_msfsc_degrease_shred_al_credits_QC_elec_contemporary_v13_26.02.16.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_a_sources\c3c4_staged_msfsc_degrease_shred_al_credits_CA_elec_prospect_v21_26.02.16.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_a_sources\c3c4_staged_al_hydrolysis_PSA_h2_AlOH3_credits_AB_elec_contemporary_v16_26.02.02.py
+[FOUND]   C:\brightway_workspace\repo_support\appendix_a_sources\c3c4_staged_al_hydrolysis_PSA_h2_AlOH3_credits_CA_elec_prospect_v15_26.02.15.py
+
+Output row counts
+--------------------------------------------------------------------------------
+table_a1_stage_d_claim_ledger_rows: 6
+table_a2_product_market_mapping_rows: 6
+table_a3_governance_variant_register_rows: 5
+node_proxy_crosswalk_rows: 64
+manifest_rows: 8
+found_builder_files: 6
+missing_builder_files: 0
+
+Warnings
+--------------------------------------------------------------------------------
+None
+
+Interpretation note
+--------------------------------------------------------------------------------
+This log confirms file discovery and output creation only. It does not prove that every thesis-facing label is semantically perfect; high-stakes rows should still be spot-checked against the builder scripts.

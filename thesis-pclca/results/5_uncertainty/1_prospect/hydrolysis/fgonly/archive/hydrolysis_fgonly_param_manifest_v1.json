@@ -1,0 +1,85 @@
+{
+  "version": "hydrolysis_fgonly_param_spec_v1",
+  "central_2050": {
+    "f_Al": 1.0,
+    "X_Al": 0.95,
+    "L": 150.0,
+    "C_NaOH": 0.24,
+    "f_makeup": 0.2,
+    "Y_prep": 0.85,
+    "R_PSA": 0.95,
+    "E_aux": 0.15,
+    "E_therm": 0.05,
+    "prep_elec_kwh_per_kg_prepared": 0.0504,
+    "liquor_density_kg_per_L": 1.0
+  },
+  "step6_params": {
+    "f_Al": {
+      "dist": "PERT",
+      "min": 0.85,
+      "mode": 1.0,
+      "max": 1.0,
+      "units": "kg Al/kg prepared"
+    },
+    "X_Al": {
+      "dist": "PERT",
+      "min": 0.85,
+      "mode": 0.95,
+      "max": 0.99,
+      "units": "-"
+    },
+    "L": {
+      "dist": "LognormalTrunc",
+      "min": 80.0,
+      "median": 150.0,
+      "max": 220.0,
+      "units": "L/kg Al"
+    },
+    "C_NaOH": {
+      "dist": "Deterministic",
+      "value": 0.24,
+      "units": "mol/L",
+      "note": "optional tight PERT 0.20-0.30"
+    },
+    "f_makeup": {
+      "dist": "PERT",
+      "min": 0.05,
+      "mode": 0.2,
+      "max": 0.4,
+      "units": "-"
+    },
+    "Y_prep": {
+      "dist": "PERT",
+      "min": 0.7,
+      "mode": 0.85,
+      "max": 0.95,
+      "units": "-"
+    },
+    "R_PSA": {
+      "dist": "PERT",
+      "min": 0.9,
+      "mode": 0.95,
+      "max": 0.99,
+      "units": "-"
+    },
+    "E_aux": {
+      "dist": "LognormalTrunc",
+      "min": 0.08,
+      "median": 0.15,
+      "max": 0.25,
+      "units": "kWh/kg prepared"
+    },
+    "E_therm": {
+      "dist": "LognormalTrunc",
+      "min": 0.02,
+      "median": 0.05,
+      "max": 0.12,
+      "units": "kWh/kg prepared"
+    }
+  },
+  "notes": [
+    "PERT is implemented in the runner as Beta-PERT (min, mode, max, lambda=4 by default).",
+    "LognormalTrunc is sampled as lognormal with median=central and sigma calibrated so [min,max] is ~95% interval, then truncated.",
+    "Dependencies are enforced in the runner by computing derived terms from the same sampled parameters and updating multiple coefficients together."
+  ]
+}

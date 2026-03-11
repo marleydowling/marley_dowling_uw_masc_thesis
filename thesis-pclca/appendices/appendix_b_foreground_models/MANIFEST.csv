@@ -1,0 +1,16 @@
+filename,supports_thesis_item,description,format,generated_or_manual,source_or_script,redistributable_yes_no,notes
+README.md,Appendix B folder guide,Folder-level purpose and scope,markdown,generated,build_appendix_b_support.py,yes,
+MANIFEST.csv,Appendix B inventory,Machine-readable inventory of support files,csv,generated,build_appendix_b_support.py,yes,
+table_b1_screening_register.csv,Table B1,Targeted-review screening register (11 rows),csv,generated,build_appendix_b_support.py,yes,Curated from final thesis-facing table
+table_b2_representative_panel_bom.csv,Table B2,Representative curtain-wall panel BOM (26 rows),csv,generated,Thesis SI Content.xlsx (LCI sheet) + build_appendix_b_support.py,yes,Parsed from Excel
+table_b3_route_wrapper_summary.csv,Table B3,Route wrapper summary (5 rows),csv,generated,build_appendix_b_support.py,yes,
+table_b4_proxy_registry.csv,Table B4,Proxy registry (6 rows),csv,generated,build_appendix_b_support.py,yes,
+table_b5_msfsc_parameters.csv,Table B5,MS-FSC baseline parameters (8 rows),csv,generated,build_appendix_b_support.py,yes,
+table_b6_hydrolysis_parameters.csv,Table B6,Hydrolysis baseline parameters (9 rows),csv,generated,build_appendix_b_support.py,yes,
+table_b7_provider_alignment.csv,Table B7,Provider alignment summary (4 rows),csv,generated,build_appendix_b_support.py,yes,
+table_b8_non_priority_treatment.csv,Table B8,Non-priority material treatment summary (11 rows),csv,generated,run_nonpriority_* scripts or fallback basis + build_appendix_b_support.py,yes,
+table_b9_non_priority_results.csv,Table B9,Selected non-priority net GWP100 results (8 rows),csv,generated,nonpriority_*_detailed/totals logs + build_appendix_b_support.py,yes,Rounded for thesis-facing table support
+route_manifest.csv,Appendix B implementation support,Route manifest (6 rows),csv,generated,build_appendix_b_support.py,yes,
+parameter_manifest.csv,Appendix B parameter support,Parameter manifest (17 rows),csv,generated,build_appendix_b_support.py,yes,
+worked_example_checks.csv,Appendix B worked examples,Worked example checks (8 rows),csv,generated,build_appendix_b_support.py,yes,
+validation_log.txt,Appendix B validation log,Run log showing file discovery and output row counts,text,generated,build_appendix_b_support.py,yes,"Confirms discovery and generation, not semantic perfection"

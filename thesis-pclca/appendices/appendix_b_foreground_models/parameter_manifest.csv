@@ -1,0 +1,18 @@
+route_family,parameter,2025_contemporary,2050_prospective,interpretation,source_basis
+MS-FSC,Shredding electricity,0.30 kWh/kg scrap,0.30 kWh/kg scrap,Burden-side shredding electricity,Appendix B baseline parameter table
+MS-FSC,Shred yield,0.8,0.8,Usable shredded feedstock from prepared scrap,Appendix B baseline parameter table
+MS-FSC,FSC retained yield,0.952,0.952,Billet output per kg shredded/degreased feed,Appendix B baseline parameter table
+MS-FSC,Consolidation energy (A),0.267 MJ per 20 g billet,0.267 MJ per 20 g billet,Productive consolidation energy,Appendix B baseline parameter table
+MS-FSC,Transition energy (B),0.355 MJ per 20 g billet,0.355 MJ per 20 g billet,Transition / ramp overhead,Appendix B baseline parameter table
+MS-FSC,Include transition term?,True,False,Determines whether (B) is included in baseline electricity,Appendix B baseline parameter table
+MS-FSC,Lubricating oil,0.02 kg/kg billet,0.02 kg/kg billet,Process consumable,Appendix B baseline parameter table
+MS-FSC,Stage D substitution ratio,1.0,1.0,kg avoided primary ingot per kg billet-equivalent output,Appendix B baseline parameter table
+Hydrolysis,f_Al / metallic Al fraction,1.0,1.0,Metallic Al available in prepared feed,Appendix B baseline parameter table
+Hydrolysis,X_Al / reacted fraction,0.85,0.95,Effective Al conversion,Appendix B baseline parameter table
+Hydrolysis,Liquor intensity,250 L/kg Al,150 L/kg prepared scrap,Working liquor burden basis,Appendix B baseline parameter table
+Hydrolysis,NaOH molarity,0.240 M,0.240 M,Working chemistry concentration,Appendix B baseline parameter table
+Hydrolysis,Liquor make-up / solvent loss,1.00 make-up fraction,0.20 solvent-loss fraction,Contemporary and prospective scripts parameterize make-up differently,Appendix B baseline parameter table
+Hydrolysis,Preparation yield (Y_prep),0.8,0.85,Prepared feed per kg gate scrap or inverse gate requirement,Appendix B baseline parameter table
+Hydrolysis,Preparation electricity,0.0504 kWh/kg prepared,0.0504 kWh/kg prepared,Scrap preparation electricity,Appendix B baseline parameter table
+Hydrolysis,PSA recovery (R_PSA),0.77,0.95,Usable H2 after purification,Appendix B baseline parameter table
+Hydrolysis,Stoichiometric water source,liquor pool,liquor pool,Water accounting convention,Appendix B baseline parameter table

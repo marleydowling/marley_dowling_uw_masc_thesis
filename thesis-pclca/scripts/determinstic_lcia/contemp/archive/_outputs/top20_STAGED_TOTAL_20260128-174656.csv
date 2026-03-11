@@ -1,0 +1,21 @@
+rank,contribution,database,code,location,name,activity_key,index
+1,-1.2065564479331408,ecoinvent_3.10.1.1_consequential_unitprocess,7feee803d7617b42630c276a615c7956,RoW,"heat production, at hard coal industrial furnace 1-10MW",252224182003245056,5184
+2,-0.6569740786330381,mtcw_foreground_contemporary,h2_production_smr_proxy_CA_contemp_ABelec,CA,"Hydrogen production, SMR (proxy; contem marginal; AB electricity normalized; no elec export credit)",274632556518907904,21000
+3,-0.14049424400184396,ecoinvent_3.10.1.1_consequential_unitprocess,f8027e13c3672f267e1d96eaf7b2f395,GLO,natural gas venting from petroleum/natural gas production,252224120929984513,1301
+4,-0.12348208234107992,ecoinvent_3.10.1.1_consequential_unitprocess,c9f6ade6f2d9519abce2145d41df16a6,CN,hard coal mine operation and hard coal preparation,252224229600206848,9800
+5,-0.08617461526470549,ecoinvent_3.10.1.1_consequential_unitprocess,bd4b1109355124047a21af49482664f0,RoW,"heat and power co-generation, lignite",252224264773640192,13041
+6,-0.08187957820706575,ecoinvent_3.10.1.1_consequential_unitprocess,bfaaa6b4cf0c6574ef66ca9a02d64090,RoW,"heat production, heavy fuel oil, at industrial furnace 1MW",252224164982759424,3649
+7,-0.07843901172330053,ecoinvent_3.10.1.1_consequential_unitprocess,3252febf4974507c969b7bbadfa2ea81,RoW,"heat and power co-generation, natural gas, 200kW electrical, lean burn",252224204220473344,7244
+8,-0.07030829543082943,ecoinvent_3.10.1.1_consequential_unitprocess,be5a06ec98a762d98fab57de3fce655c,IT,"heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical",252224221501005824,8994
+9,-0.06576669435737291,ecoinvent_3.10.1.1_consequential_unitprocess,23f96312ffa8ce40afd858a31608ccf3,GLO,"sweet gas, burned in gas turbine",252224199778705408,6831
+10,-0.058191798978975744,ecoinvent_3.10.1.1_consequential_unitprocess,c8851ed7b1ee1f9f7afe86857fd10c18,GLO,"transport, freight, sea, bulk carrier for dry goods",252224349083344898,20234
+11,-0.05446433983339726,ecoinvent_3.10.1.1_consequential_unitprocess,96504536239fda2a2cf514d648673c2e,RoW,"quicklime production, in pieces, loose",252224139787575296,2657
+12,-0.03383743492984799,ecoinvent_3.10.1.1_consequential_unitprocess,c510736aca37050154922e9f13484027,RU,"heat and power co-generation, hard coal",252224324710244352,17991
+13,-0.030136041903201714,ecoinvent_3.10.1.1_consequential_unitprocess,f8659c6a89e322bc26852a2082ab88bc,NL,"heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical",252224311653376002,16844
+14,-0.0294919953563687,ecoinvent_3.10.1.1_consequential_unitprocess,01a31c6bb3b89cd7d8219e08836ad847,RU,"heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical",252224259551731712,12546
+15,-0.028119266216523997,ecoinvent_3.10.1.1_consequential_unitprocess,e057b75f4addfb4c60ceb890b685b9d4,RoW,"heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical",252224133324152832,2517
+16,-0.027589597291819205,ecoinvent_3.10.1.1_consequential_unitprocess,edf425ea1bac453a8fbbe9c2f88e3921,RoW,"heat production, light fuel oil, at industrial furnace 1MW",252224262999449600,12867
+17,-0.022757193507447943,ecoinvent_3.10.1.1_consequential_unitprocess,69e8f988e4bf859d396afe191fd6ed5a,GLO,"diesel, burned in building machine",252224307014475784,16462
+18,-0.021792947048831526,ecoinvent_3.10.1.1_consequential_unitprocess,27adfe07cc735fbff529974b279bac9b,PL,"heat and power co-generation, hard coal",252224274219212800,13882
+19,-0.020708006854172165,ecoinvent_3.10.1.1_consequential_unitprocess,766e4f76c79149785c287c9c444f945c,RU,"heat and power co-generation, lignite",252224165741928448,3717
+20,-0.019815487809953118,ecoinvent_3.10.1.1_consequential_unitprocess,3f4cd5f9b39dbb1ffecd273462766f1b,CN,"electricity production, hard coal, at coal mine power plant",252224296390303745,15469

@@ -1,0 +1,55 @@
+Appendix D Validation Log
+================================================================================
+Timestamp: 2026-03-11T14:19:32
+Repo root: C:\brightway_workspace\repo\thesis-pclca
+Source dir: C:\brightway_workspace\repo_support\appendix_d_sources
+Source workbook: C:\brightway_workspace\repo_support\appendix_d_sources\Thesis SI Content.xlsx
+
+Workbook sheets discovered
+--------------------------------------------------------------------------------
+LCI
+Elec_Parameters
+CA_Elec_Contemp
+CA_Elec_Prospect
+ON_Elec_Contemp
+QC_Elec_Contemp
+BC_Elec_Contemp
+AB_Elec_Contemp
+Other_Parameters
+CA_Ingot_Contemp
+All Alum. Producers Contemp
+Hydrogen Prod Current
+AB Hydrogen Production Calcs
+
+Target sheet extraction status
+--------------------------------------------------------------------------------
+CA_Elec_Contemp: status=ok | output=C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_CA_Elec_Contemp.xlsx | direct_dependencies=
+ON_Elec_Contemp: status=ok | output=C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_ON_Elec_Contemp.xlsx | direct_dependencies=
+QC_Elec_Contemp: status=ok | output=C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_QC_Elec_Contemp.xlsx | direct_dependencies=
+AB_Elec_Contemp: status=ok | output=C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_AB_Elec_Contemp.xlsx | direct_dependencies=
+BC_Elec_Contemp: status=ok | output=C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_BC_Elec_Contemp.xlsx | direct_dependencies=
+CA_Ingot_Contemp: status=ok | output=C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_CA_Ingot_Contemp.xlsx | direct_dependencies=
+All Alum. Producers Contemp: status=ok | output=C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_All_Alum_Producers_Contemp.xlsx | direct_dependencies=
+Hydrogen Prod Content: status=missing_target_sheet | output= | direct_dependencies=
+AB Hydrogen Production Calcs: status=ok | output=C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_AB_Hydrogen_Production_Calcs.xlsx | direct_dependencies=
+
+Dependency map summary
+--------------------------------------------------------------------------------
+
+Output row counts
+--------------------------------------------------------------------------------
+d1: 6
+d2: 7
+d3: 7
+d4: 9
+source_manifest: 13
+extract_manifest: 9
+successful_extracted_workbooks: 8
+
+Warnings
+--------------------------------------------------------------------------------
+- Target sheet "Hydrogen Prod Content" was not found in source workbook.
+
+Interpretation note
+--------------------------------------------------------------------------------
+Extracted workbooks are produced by copying the original workbook and removing non-required sheets. This preserves formatting and formulas better than rebuilding sheets from scratch. However, formulas that depend on workbook-level names, hidden support sheets not detected in formulas, or external links may still need manual spot-checking in Excel.

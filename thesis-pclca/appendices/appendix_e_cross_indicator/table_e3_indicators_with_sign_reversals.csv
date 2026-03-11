@@ -1,0 +1,10 @@
+impact_category,indicator,cells_with_sign_reversal_out_of_20,primary_concentration_of_reversals,method_id
+ionising radiation,ionising radiation potential (IRP),9,Reuse (3) | Landfill (2) | MS-FSC (2) | Aluminium hydrolysis (1) | Conventional recycling (1),ionising_radiation__ionising_radiation_potential_IRP__87367cba
+ecotoxicity: freshwater,freshwater ecotoxicity potential (FETP),7,MS-FSC (4) | Aluminium hydrolysis (3),ecotoxicity_freshwater__freshwater_ecotoxicity_potential_FET__a0441fa2
+ecotoxicity: marine,marine ecotoxicity potential (METP),7,MS-FSC (4) | Aluminium hydrolysis (3),ecotoxicity_marine__marine_ecotoxicity_potential_METP__4ccba5cc
+ecotoxicity: terrestrial,terrestrial ecotoxicity potential (TETP),4,Conventional recycling (4),ecotoxicity_terrestrial__terrestrial_ecotoxicity_potential_TE__16f3b1ae
+eutrophication: freshwater,freshwater eutrophication potential (FEP),3,Aluminium hydrolysis (3),eutrophication_freshwater__freshwater_eutrophication_potential___55c623e0
+eutrophication: marine,marine eutrophication potential (MEP),3,Aluminium hydrolysis (3),eutrophication_marine__marine_eutrophication_potential_MEP__347a1fc6
+ozone depletion,ozone depletion potential (ODPinfinite),3,Aluminium hydrolysis (3),ozone_depletion__ozone_depletion_potential_ODPinfinit__18207635
+human toxicity: carcinogenic,human toxicity potential (HTPc),1,Aluminium hydrolysis (1),human_toxicity_carcinogenic__human_toxicity_potential_HTPc__58612d11
+material resources: metals/minerals,surplus ore potential (SOP),1,Aluminium hydrolysis (1),material_resources_metals_mi__surplus_ore_potential_SOP__3b2a237a

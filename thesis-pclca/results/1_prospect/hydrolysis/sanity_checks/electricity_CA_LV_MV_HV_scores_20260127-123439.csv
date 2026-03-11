@@ -1,0 +1,10 @@
+scenario,bg_db,voltage,activity_name,activity_loc,activity_unit,reference_product,amount,lcia_score
+SSP1VLLO_2050_PERF,prospective_conseq_IMAGE_SSP1VLLO_2050_PERF,LOW,"market group for electricity, low voltage",CA,kilowatt hour,"electricity, low voltage",1.0,0.07891871172720485
+SSP1VLLO_2050_PERF,prospective_conseq_IMAGE_SSP1VLLO_2050_PERF,MEDIUM,"market group for electricity, medium voltage",CA,kilowatt hour,"electricity, medium voltage",1.0,0.07248916896519807
+SSP1VLLO_2050_PERF,prospective_conseq_IMAGE_SSP1VLLO_2050_PERF,HIGH,"market group for electricity, high voltage",CA,kilowatt hour,"electricity, high voltage",1.0,0.06982362564681846
+SSP2M_2050_PERF,prospective_conseq_IMAGE_SSP2M_2050_PERF,LOW,"market group for electricity, low voltage",CA,kilowatt hour,"electricity, low voltage",1.0,-0.004695653893286885
+SSP2M_2050_PERF,prospective_conseq_IMAGE_SSP2M_2050_PERF,MEDIUM,"market group for electricity, medium voltage",CA,kilowatt hour,"electricity, medium voltage",1.0,-0.0062352239891092
+SSP2M_2050_PERF,prospective_conseq_IMAGE_SSP2M_2050_PERF,HIGH,"market group for electricity, high voltage",CA,kilowatt hour,"electricity, high voltage",1.0,-0.008117928147547644
+SSP5H_2050_PERF,prospective_conseq_IMAGE_SSP5H_2050_PERF,LOW,"market group for electricity, low voltage",CA,kilowatt hour,"electricity, low voltage",1.0,0.0275812007455116
+SSP5H_2050_PERF,prospective_conseq_IMAGE_SSP5H_2050_PERF,MEDIUM,"market group for electricity, medium voltage",CA,kilowatt hour,"electricity, medium voltage",1.0,0.024202673156029683
+SSP5H_2050_PERF,prospective_conseq_IMAGE_SSP5H_2050_PERF,HIGH,"market group for electricity, high voltage",CA,kilowatt hour,"electricity, high voltage",1.0,0.0220136865429005

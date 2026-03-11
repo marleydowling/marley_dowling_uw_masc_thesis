@@ -1,0 +1,4 @@
+artifact,recorded_path,sha_256
+S-BASE-2025-10-10_ecoinvent-3.10.1-consequential.zip,C:\brightway_workspace\snapshots\S-BASE-2025-10-10_ecoinvent-3.10.1-consequential.zip,7e3550b6bc3a141517acb79d3274acbe67f594e967a52e4bedc4e43792adba8c
+S-BASE-2025-10-10_manifest.json,C:\brightway_workspace\snapshots\S-BASE-2025-10-10_ecoinvent-3.10.1-consequential\S-BASE-2025-10-10_manifest.json,9a2bb715fc5edc99b1c4de13472ef279482a44f7e57b2e37d1acd2fa31c73967
+ecoinvent-3.10.1-consequential.processed.zip,C:\brightway_workspace\snapshots\S-BASE-2025-10-10_ecoinvent-3.10.1-consequential\ecoinvent-3.10.1-consequential.processed.zip,4ba325d08d259e48f2e16b6461af6e70e915c2c8f2e4fd0f611006a37f53c495

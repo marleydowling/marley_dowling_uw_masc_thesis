@@ -1,0 +1,12 @@
+material_family,proxy_treatment_intent,typical_template_family
+CLT,Energy-recovery proxy,"Waste wood, untreated, municipal incineration"
+SPF softwood,Energy-recovery proxy,"Waste wood, untreated, municipal incineration"
+Glass,Landfill proxy,"Waste glass, sanitary landfill"
+XPS,Landfill proxy,"Waste polystyrene, sanitary landfill"
+Polyethylene,Landfill proxy,"Waste polyethylene, sanitary landfill"
+Polyamide,Mixed-plastic / MSW landfill proxy,"Waste plastic, mixture, sanitary landfill"
+Silicone,MSW landfill proxy,"Municipal solid waste, sanitary landfill"
+Silica gel,MSW landfill proxy,"Municipal solid waste, sanitary landfill"
+EPDM,Incineration proxy,"Waste rubber, unspecified, municipal incineration"
+Gypsum,Landfill proxy,"Waste gypsum, sanitary landfill"
+Fibre glass,Recycling proxy,"Waste mineral wool, recycling"

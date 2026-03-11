@@ -1,0 +1,406 @@
+# run_hydrolysis_c3c4_stageD_ipcc_summary_contemp_v3_26.01.28.py
+
+from __future__ import annotations
+
+import os
+import sys
+import csv
+import logging
+from pathlib import Path
+from datetime import datetime
+from typing import Any, Dict, List, Optional, Tuple
+
+import numpy as np
+import bw2data as bw
+from bw2calc import LCA
+
+
+# =============================================================================
+# CONFIG
+# =============================================================================
+
+PROJECT_NAME = "pCLCA_CA_2025_contemp"
+FOREGROUND_DB_NAME = "mtcw_foreground_contemporary"
+
+DEFAULT_ROOT = Path(r"C:\brightway_workspace")
+
+# --- Hydrolysis pick rules (deterministic auto-pick) ---
+# C3–C4 activity (the treatment route)
+C3C4_CODE_HINTS = ["al_hydrolysis_treatment"]  # will prefer exact code matches if present
+C3C4_NAME_MUST_CONTAIN = ["hydrolysis", "treatment"]  # fallback search
+C3C4_LOC_PREFER = ["CA", "CA-QC", "CA-ON", "CA-BC", "CA-AB", "RNA", "RoW", "GLO"]
+
+# Stage D wrapper activity (credit node)
+STAGED_CODE_HINTS = ["stageD", "hydrolysis"]  # prefer codes containing these tokens
+STAGED_NAME_MUST_CONTAIN = ["stage d", "credit"]  # plus hydrolysis if available
+STAGED_NAME_OPTIONAL_CONTAIN = ["hydrolysis"]     # boost if present
+STAGED_LOC_PREFER = ["CA", "CA-QC", "QC", "CA-ON", "RNA", "RoW", "GLO"]
+
+# Output folder convention
+OUTPUT_SUBDIR = Path("results") / "0_contemp" / "hydrolysis"
+SUMMARY_CSV_NAME = "ipcc_impacts_summary.csv"
+TOP20_CSV_NAME = "top20_contributors_gwp.csv"
+
+
+# =============================================================================
+# ROOT + LOGGING
+# =============================================================================
+
+def get_root_dir() -> Path:
+    cwd = Path.cwd()
+    for parent in [cwd] + list(cwd.parents):
+        if (parent / "results").exists() and (parent / "logs").exists():
+            return parent
+        if (parent / "scripts").exists() and (parent / "brightway_base").exists():
+            return parent
+    return DEFAULT_ROOT
+
+
+def setup_logger(root: Path) -> logging.Logger:
+    logs_dir = root / "logs"
+    logs_dir.mkdir(parents=True, exist_ok=True)
+    ts = datetime.now().strftime("%Y%m%d-%H%M%S")
+    log_path = logs_dir / f"run_hydrolysis_ipcc_summary_contemp_{ts}.txt"
+
+    logger = logging.getLogger("run_hydrolysis_ipcc_summary_contemp")
+    logger.setLevel(logging.INFO)
+    logger.handlers.clear()
+
+    fh = logging.FileHandler(log_path, encoding="utf-8")
+    fh.setFormatter(logging.Formatter("%(asctime)s [%(levelname)s] %(message)s"))
+    logger.addHandler(fh)
+
+    sh = logging.StreamHandler(stream=sys.stdout)
+    sh.setFormatter(logging.Formatter("%(asctime)s [%(levelname)s] %(message)s"))
+    logger.addHandler(sh)
+
+    logger.info(f"[log] {log_path}")
+    logger.info(f"[env] BRIGHTWAY2_DIR={os.environ.get('BRIGHTWAY2_DIR','<<not set>>')}")
+    return logger
+
+
+# =============================================================================
+# HELPERS: pickers
+# =============================================================================
+
+def _lower(s: str) -> str:
+    return (s or "").strip().lower()
+
+
+def loc_score(loc: str, prefer: List[str]) -> int:
+    if not loc:
+        return 0
+    loc = loc.strip()
+    if loc in prefer:
+        # higher score for earlier items
+        return 1000 - prefer.index(loc) * 10
+    # heuristic: CA-* just below CA if CA is in prefer
+    if "CA" in prefer and loc.startswith("CA-"):
+        return 900
+    if loc == "RNA":
+        return 600
+    if loc == "RoW":
+        return 500
+    if loc == "GLO":
+        return 450
+    return 100
+
+
+def pick_fg_activity(
+    fg_db: bw.Database,
+    *,
+    code_hints: Optional[List[str]] = None,
+    name_must_contain: Optional[List[str]] = None,
+    name_optional_contain: Optional[List[str]] = None,
+    loc_prefer: Optional[List[str]] = None,
+    logger: Optional[logging.Logger] = None,
+    label: str = ""
+):
+    code_hints = code_hints or []
+    must = [_lower(x) for x in (name_must_contain or [])]
+    opt = [_lower(x) for x in (name_optional_contain or [])]
+    prefer = loc_prefer or ["CA", "RNA", "RoW", "GLO"]
+
+    candidates: List[Any] = []
+    for a in fg_db:
+        code = (a.get("code") or a.key[1] or "").strip()
+        nm = _lower(a.get("name") or "")
+        loc = (a.get("location") or "").strip()
+
+        # code hint match (soft)
+        code_hit = 0
+        for h in code_hints:
+            if _lower(h) in _lower(code):
+                code_hit += 1
+
+        # name constraints
+        if must and not all(x in nm for x in must):
+            continue
+
+        opt_hit = sum(1 for x in opt if x in nm)
+
+        score = 0
+        score += code_hit * 2000
+        score += opt_hit * 50
+        score += loc_score(loc, prefer)
+        # tiny tie-breaker: longer name match richness
+        score += len(must) * 5
+
+        candidates.append((score, a))
+
+    if not candidates:
+        raise RuntimeError(f"Could not resolve foreground activity for {label or 'requested picker'} "
+                           f"(must={name_must_contain}, code_hints={code_hints}).")
+
+    candidates.sort(key=lambda x: x[0], reverse=True)
+    best = candidates[0][1]
+
+    if logger:
+        logger.info(f"[pick] {label}: {best.key} loc={best.get('location')} code={best.get('code', best.key[1])} "
+                    f"name='{best.get('name')}'")
+        if len(candidates) > 1:
+            logger.info(f"[pick] {label}: top 5 candidates (score, key, loc, name):")
+            for s, a in candidates[:5]:
+                logger.info(f"       - {s:>5} | {a.key} | {a.get('location')} | {a.get('name')}")
+    return best
+
+
+# =============================================================================
+# METHODS: IPCC suite + GWP picker
+# =============================================================================
+
+def method_to_str(m: Tuple) -> str:
+    return " | ".join([str(x) for x in m])
+
+
+def is_ipcc_method(m: Tuple) -> bool:
+    s = " ".join([str(x).lower() for x in m])
+    return "ipcc" in s
+
+
+def pick_gwp_method(ipcc_methods: List[Tuple]) -> Tuple:
+    """
+    Prefer an IPCC method that clearly looks like GWP100.
+    Fallback to first IPCC method if no obvious match.
+    """
+    def score(m: Tuple) -> int:
+        s = " ".join([str(x).lower() for x in m])
+        sc = 0
+        if "gwp" in s or "global warming potential" in s or "climate change" in s:
+            sc += 100
+        if "100" in s or "100a" in s:
+            sc += 50
+        if "20" in s or "500" in s:
+            sc -= 5  # slight deprioritize vs 100
+        return sc
+
+    ranked = sorted(ipcc_methods, key=score, reverse=True)
+    return ranked[0]
+
+
+# =============================================================================
+# LCIA + CONTRIBUTIONS
+# =============================================================================
+
+def compute_scores(demand: Dict[Tuple[str, str], float], methods: List[Tuple]) -> Dict[Tuple, float]:
+    scores: Dict[Tuple, float] = {}
+    for m in methods:
+        lca = LCA(demand, m)
+        lca.lci()
+        lca.lcia()
+        scores[m] = float(lca.score)
+    return scores
+
+
+def top_contributors_gwp(
+    demand: Dict[Tuple[str, str], float],
+    gwp_method: Tuple,
+    n: int = 20
+) -> List[Dict[str, Any]]:
+    lca = LCA(demand, gwp_method)
+    lca.lci()
+    lca.lcia()
+
+    # characterized_inventory: biosphere x activities -> sum over biosphere gives activity contributions
+    mat = lca.characterized_inventory
+    contrib = np.asarray(mat.sum(axis=0)).ravel()
+
+    # invert activity_dict
+    idx_to_key = {v: k for k, v in lca.activity_dict.items()}
+
+    total = float(lca.score)
+    rows: List[Dict[str, Any]] = []
+    for idx, c in enumerate(contrib):
+        if idx not in idx_to_key:
+            continue
+        key = idx_to_key[idx]
+        act = bw.get_activity(key)
+        c = float(c)
+        rows.append({
+            "activity_key": key,
+            "database": key[0],
+            "code": key[1],
+            "name": act.get("name"),
+            "location": act.get("location"),
+            "reference_product": act.get("reference product"),
+            "contribution": c,
+            "abs_contribution": abs(c),
+            "percent_of_total": (c / total * 100.0) if abs(total) > 1e-30 else np.nan,
+        })
+
+    rows.sort(key=lambda r: r["abs_contribution"], reverse=True)
+    return rows[:n]
+
+
+# =============================================================================
+# CSV WRITERS
+# =============================================================================
+
+def write_summary_csv(path: Path, rows: List[Dict[str, Any]], method_cols: List[str]):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    base_cols = ["case", "activity_c3c4", "activity_stageD", "gwp_method", "gwp_score"]
+    cols = base_cols + method_cols
+    with path.open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        for r in rows:
+            w.writerow({c: r.get(c, "") for c in cols})
+
+
+def write_top20_csv(path: Path, rows: List[Dict[str, Any]]):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    cols = [
+        "case", "rank", "gwp_method",
+        "contribution", "abs_contribution", "percent_of_total",
+        "activity_key", "database", "code", "name", "location", "reference_product",
+    ]
+    with path.open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        for r in rows:
+            w.writerow({c: r.get(c, "") for c in cols})
+
+
+# =============================================================================
+# MAIN
+# =============================================================================
+
+def main():
+    root = get_root_dir()
+    logger = setup_logger(root)
+
+    if PROJECT_NAME not in bw.projects:
+        raise RuntimeError(f"Project '{PROJECT_NAME}' not found.")
+    bw.projects.set_current(PROJECT_NAME)
+    logger.info(f"[proj] Active project: {bw.projects.current}")
+
+    if FOREGROUND_DB_NAME not in bw.databases:
+        raise RuntimeError(f"Foreground DB '{FOREGROUND_DB_NAME}' not found.")
+    fg_db = bw.Database(FOREGROUND_DB_NAME)
+    logger.info(f"[fg] Using foreground DB: {FOREGROUND_DB_NAME} (activities={len(list(fg_db))})")
+
+    # Pick activities
+    c3c4 = pick_fg_activity(
+        fg_db,
+        code_hints=C3C4_CODE_HINTS,
+        name_must_contain=C3C4_NAME_MUST_CONTAIN,
+        loc_prefer=C3C4_LOC_PREFER,
+        logger=logger,
+        label="C3C4 (hydrolysis)"
+    )
+
+    stageD = pick_fg_activity(
+        fg_db,
+        code_hints=STAGED_CODE_HINTS,
+        name_must_contain=STAGED_NAME_MUST_CONTAIN,
+        name_optional_contain=STAGED_NAME_OPTIONAL_CONTAIN,
+        loc_prefer=STAGED_LOC_PREFER,
+        logger=logger,
+        label="Stage D (hydrolysis credit)"
+    )
+
+    # IPCC methods + GWP
+    ipcc_methods = [m for m in bw.methods if is_ipcc_method(m)]
+    if not ipcc_methods:
+        raise RuntimeError("No IPCC methods found in bw.methods. (Expected IPCC method suite to be available.)")
+
+    gwp_method = pick_gwp_method(ipcc_methods)
+    ipcc_other = [m for m in ipcc_methods if m != gwp_method]
+
+    print("\n================= METHOD SELECTION =================")
+    print(f"GWP method chosen: {method_to_str(gwp_method)}")
+    print(f"Other IPCC methods: {len(ipcc_other)}")
+    for m in ipcc_other[:10]:
+        print(f"  - {method_to_str(m)}")
+    if len(ipcc_other) > 10:
+        print(f"  ... (+{len(ipcc_other)-10} more)")
+
+    # Demands
+    demand_c3c4 = {c3c4.key: 1.0}
+    demand_stageD = {stageD.key: 1.0}
+    demand_joint = {c3c4.key: 1.0, stageD.key: 1.0}
+
+    cases = [
+        ("c3c4", demand_c3c4),
+        ("stageD", demand_stageD),
+        ("joint", demand_joint),
+    ]
+
+    # Compute + print
+    summary_rows: List[Dict[str, Any]] = []
+    other_cols = [method_to_str(m) for m in ipcc_other]
+
+    print("\n================= IMPACTS (PRINT) =================")
+    for case_name, demand in cases:
+        scores = compute_scores(demand, ipcc_methods)
+        gwp_score = scores[gwp_method]
+
+        print(f"\n--- CASE: {case_name.upper()} ---")
+        print(f"GWP ({method_to_str(gwp_method)}): {gwp_score:.12g}")
+
+        print("Other IPCC method totals:")
+        for m in ipcc_other:
+            print(f"  {method_to_str(m)}: {scores[m]:.12g}")
+
+        row = {
+            "case": case_name,
+            "activity_c3c4": f"{c3c4.key}",
+            "activity_stageD": f"{stageD.key}",
+            "gwp_method": method_to_str(gwp_method),
+            "gwp_score": gwp_score,
+        }
+        for m in ipcc_other:
+            row[method_to_str(m)] = scores[m]
+        summary_rows.append(row)
+
+    # Top 20 contributors (GWP) for c3c4 + stageD
+    print("\n================= TOP 20 CONTRIBUTORS (GWP) =================")
+
+    top_rows_out: List[Dict[str, Any]] = []
+    for case_name, demand in [("c3c4", demand_c3c4), ("stageD", demand_stageD)]:
+        top20 = top_contributors_gwp(demand, gwp_method, n=20)
+        print(f"\n--- TOP 20 | CASE: {case_name.upper()} | METHOD: {method_to_str(gwp_method)} ---")
+        for i, r in enumerate(top20, start=1):
+            print(f"{i:>2}. {r['contribution']:.12g}  ({r['percent_of_total']:.6g}%) | "
+                  f"{r['activity_key']} | {r['location']} | {r['name']}")
+            out = dict(r)
+            out["case"] = case_name
+            out["rank"] = i
+            out["gwp_method"] = method_to_str(gwp_method)
+            top_rows_out.append(out)
+
+    # Write CSVs
+    out_dir = root / OUTPUT_SUBDIR
+    summary_path = out_dir / SUMMARY_CSV_NAME
+    top20_path = out_dir / TOP20_CSV_NAME
+
+    write_summary_csv(summary_path, summary_rows, other_cols)
+    write_top20_csv(top20_path, top_rows_out)
+
+    print("\n================= CSV OUTPUT =================")
+    print(f"Summary CSV: {summary_path}")
+    print(f"Top20 CSV:   {top20_path}")
+
+
+if __name__ == "__main__":
+    main()

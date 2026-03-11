@@ -1,0 +1,5 @@
+tag,n,qrmse,qrmse_rel,denom_abs_median,meets_tol,stable_hits,tol_qrmse_rel,q_probs,cases
+contemp_msfsc_uncertainty,800,inf,inf,26.334323495718515,False,0,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"
+contemp_msfsc_uncertainty,1000,0.14231547723032076,0.005448280525854798,26.121172827823955,True,1,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"
+contemp_msfsc_uncertainty,1200,0.05151204777701914,0.001971028245021912,26.134606597911272,True,2,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"
+contemp_msfsc_uncertainty,1400,0.05707867838641608,0.0021923875545421735,26.034939975900183,True,3,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"

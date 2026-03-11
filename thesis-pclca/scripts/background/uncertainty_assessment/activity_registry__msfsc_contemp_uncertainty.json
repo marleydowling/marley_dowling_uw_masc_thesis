@@ -1,0 +1,195 @@
+{
+  "records": {
+    "consolidate_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "FSC_consolidation_CA"
+      ],
+      "id": 282946082866012161,
+      "location": "CA",
+      "name": "MS-FSC consolidation (CA) \u2013 electricity A/B, yield-linked to degreasing",
+      "ref_product": "aluminium billet (MS-FSC)"
+    },
+    "credit_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "80c90f11afd0709eb90f4ad976ba16d4"
+      ],
+      "id": 252224160377413636,
+      "location": "IAI Area, North America",
+      "name": "market for aluminium, primary, ingot",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_provider_fg_1": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_bed397c265"
+      ],
+      "id": 282946083398688770,
+      "location": "GLO",
+      "name": "market for transport, freight, sea, container ship (FG clone; QC elec swaps)",
+      "ref_product": "transport, freight, sea, container ship"
+    },
+    "credit_provider_fg_10": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_31ab15bb6c"
+      ],
+      "id": 282946083600015365,
+      "location": "CA",
+      "name": "aluminium production, primary, ingot (FG clone; QC elec swaps)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_provider_fg_2": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_5efe9cae7d"
+      ],
+      "id": 282946083532906498,
+      "location": "IAI Area, North America",
+      "name": "aluminium, ingot, primary, import from South America (FG clone; QC elec swaps)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_provider_fg_3": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_6c36d98216"
+      ],
+      "id": 282946082614353922,
+      "location": "IAI Area, North America",
+      "name": "aluminium, ingot, primary, import from Middle East (Gulf cooperation Council) (FG clone; QC elec swaps)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_provider_fg_4": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_ffd637f109"
+      ],
+      "id": 282946083600015368,
+      "location": "IAI Area, North America",
+      "name": "aluminium, ingot, primary, import from unspecified (FG clone; QC elec swaps)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_provider_fg_5": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_87dad059b4"
+      ],
+      "id": 282946082895372291,
+      "location": "IAI Area, North America",
+      "name": "aluminium, ingot, primary, import from EU27 & EFTA (FG clone; QC elec swaps)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_provider_fg_6": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_dfa583257f"
+      ],
+      "id": 282946082798903297,
+      "location": "IAI Area, North America",
+      "name": "aluminium, ingot, primary, import from Asia (excluding China) (FG clone; QC elec swaps)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_provider_fg_7": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_51c40a6d9c"
+      ],
+      "id": 282946082945703938,
+      "location": "IAI Area, North America",
+      "name": "aluminium, ingot, primary, import from Rest of Europe (FG clone; QC elec swaps)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_provider_fg_8": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_ef00ed1bf5"
+      ],
+      "id": 282946083641958401,
+      "location": "IAI Area, North America",
+      "name": "aluminium, ingot, primary, import from Africa (FG clone; QC elec swaps)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_provider_fg_9": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_ingot_provider_4106bf268b"
+      ],
+      "id": 282946081951653899,
+      "location": "IAI Area, North America",
+      "name": "aluminium, ingot, primary, import from Oceania (FG clone; QC elec swaps)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "credit_proxy_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_credit_primary_ingot_IAI_NA_QC_elec"
+      ],
+      "id": 282946082215895045,
+      "location": "CA-QC",
+      "name": "market for aluminium, primary, ingot (CANONICAL FG credit proxy; upstream providers QC-swapped)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "degrease_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "c22a4069bd4efd8826d23aadb22f32db"
+      ],
+      "id": 252224331207221249,
+      "location": "RoW",
+      "name": "degreasing, metal part in alkaline bath",
+      "ref_product": "degreasing, metal part in alkaline bath"
+    },
+    "degrease_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "FSC_degreasing_CA"
+      ],
+      "id": 282946082996035584,
+      "location": "CA",
+      "name": "MS-FSC degreasing (CA) \u2013 scaled proxy (mass-preserving)",
+      "ref_product": "aluminium scrap, degreased"
+    },
+    "gateA_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "a9faf1732e80f7dc64672e1792d766b7"
+      ],
+      "id": 252224286336557056,
+      "location": "RoW",
+      "name": "treatment of aluminium scrap, post-consumer, by collecting, sorting, cleaning, pressing",
+      "ref_product": "aluminium scrap, post-consumer"
+    },
+    "gateA_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "al_scrap_postconsumer_CA_gate_FSC"
+      ],
+      "id": 282946083331579906,
+      "location": "CA",
+      "name": "Aluminium scrap, post-consumer, prepared for melting (DIVERTED; CA) \u2013 Gate A burdens only",
+      "ref_product": "aluminium scrap, post-consumer, prepared for melting (diverted feedstock)"
+    },
+    "shred_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "FSC_shredding_CA"
+      ],
+      "id": 282946083818119171,
+      "location": "CA",
+      "name": "MS-FSC shredding (CA) \u2013 yield-linked (prepared->shredded)",
+      "ref_product": "aluminium scrap, shredded"
+    },
+    "stageD_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "FSC_stageD_credit_billet_QCBC"
+      ],
+      "id": 282946083818119169,
+      "location": "CA-QC",
+      "name": "Stage D credit: avoided primary aluminium ingot (CANONICAL: AL_credit_primary_ingot_IAI_NA_QC_elec) \u2013 MS-FSC (yield-scaled: shred=0.800, msfsc=0.952)",
+      "ref_product": "Stage D credit service (per kg prepared scrap basis)"
+    }
+  },
+  "version": "msfsc_contemp_uncertainty_v2"
+}

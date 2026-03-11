@@ -1,0 +1,9 @@
+filename,supports_thesis_item,description,format,generated_or_manual,source_or_script,redistributable_yes_no,notes
+README.md,Appendix A (folder guide),"Folder-level purpose, scope, and inclusion/exclusion note.",markdown,generated,build_appendix_a_support.py,yes,Repository support guide; not thesis prose.
+MANIFEST.csv,Appendix A (folder inventory),Machine-readable inventory of support files in appendix_a_stage_d.,csv,generated,build_appendix_a_support.py,yes,Generated inventory.
+table_a1_stage_d_claim_ledger.csv,Table A1,Machine-readable Stage D substitution-claim ledger (6 rows).,csv,generated,build_appendix_a_support.py,yes,Curated from final thesis Appendix A wording.
+table_a2_product_market_mapping.csv,Table A2,Machine-readable product-to-market mapping (6 rows).,csv,generated,build_appendix_a_support.py,yes,Curated from final thesis Appendix A wording.
+table_a3_governance_variant_register.csv,Table A3,Machine-readable governance-variant register (5 rows).,csv,generated,build_appendix_a_support.py,yes,Curated from final thesis Appendix A wording.
+node_proxy_crosswalk.csv,Appendix A implementation crosswalk,Links route-level Appendix A concepts to concrete builder codes and scenario-suffixed node patterns (64 rows).,csv,generated,build_appendix_a_support.py + builder scripts,yes,Main repository support file for Appendix A traceability.
+claim_basis_notes.md,Appendix A interpretation notes,Short implementation notes clarifying how thesis governance language maps to final builder architecture.,markdown,generated,build_appendix_a_support.py,yes,Deliberately brief; not a duplicate of thesis prose.
+validation_log.txt,Appendix A validation log,Run log showing file discovery and output row counts for this generator execution.,text,generated,build_appendix_a_support.py,yes,"Confirms discovery and output creation, not semantic perfection."

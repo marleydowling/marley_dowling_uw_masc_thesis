@@ -1,0 +1,16 @@
+{
+  "scenario": "SSP1VLLO_2050",
+  "bg_db": "prospective_conseq_IMAGE_SSP1VLLO_2050_PERF",
+  "FU_SCRAP_KG": 3.67,
+  "gateA_per_route": 1.0526315789473684,
+  "FU_ROUTE": 3.4865,
+  "picked": {
+    "gateA": "('mtcw_foreground_prospective', 'MSFSC_gateA_DIVERT_PREP_CA_SSP1VLLO_2050')",
+    "degrease": "('mtcw_foreground_prospective', 'MSFSC_degrease_CA_SSP1VLLO_2050')",
+    "route_c3c4": "('mtcw_foreground_prospective', 'MSFSC_route_C3C4_only_CA_SSP1VLLO_2050')",
+    "route_total": "('mtcw_foreground_prospective', 'MSFSC_route_total_UNITSTAGED_CA_SSP1VLLO_2050')",
+    "ingot_inert": "('mtcw_foreground_prospective', 'AL_primary_ingot_CUSTOM_INERT_CA_SSP1VLLO_2050')",
+    "stageD_wrapper": null,
+    "stageD_policy": "negative-demand of inert ingot proxy"
+  }
+}

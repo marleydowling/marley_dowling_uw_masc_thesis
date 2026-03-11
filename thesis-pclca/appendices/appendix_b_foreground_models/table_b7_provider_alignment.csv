@@ -1,0 +1,5 @@
+route_family,burden_side_electricity,credit_side_provider_basis,other_utility_relinking,notes
+Base aluminium routes,Contemporary or scenario-consistent background electricity,Receiving-system-specific avoided-product proxy,Limited,Base routes rely mainly on wrapper structure rather than extensive utility relinking
+MS-FSC,Localized burden-side electricity,Avoided-ingot proxy with route-appropriate provider basis,Limited,Burden and credit electricity were intentionally separated
+Hydrolysis,Localized foreground electricity,Product-specific H2 and Al(OH)3 receiving systems,"Water, wastewater, NaOH, PSA-related services",Hydrolysis required the most explicit utility alignment
+Non-priority materials,Simplified localized wrapper electricity,Embedded credit logic where applicable,Minimal,Implemented as simplified wrappers rather than bespoke route chains

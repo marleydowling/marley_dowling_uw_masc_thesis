@@ -1,0 +1,10 @@
+parameter,2025_contemporary,2050_prospective,interpretation
+f_Al / metallic Al fraction,1.0,1.0,Metallic Al available in prepared feed
+X_Al / reacted fraction,0.85,0.95,Effective Al conversion
+Liquor intensity,250 L/kg Al,150 L/kg prepared scrap,Working liquor burden basis
+NaOH molarity,0.240 M,0.240 M,Working chemistry concentration
+Liquor make-up / solvent loss,1.00 make-up fraction,0.20 solvent-loss fraction,Contemporary and prospective scripts parameterize make-up differently
+Preparation yield (Y_prep),0.8,0.85,Prepared feed per kg gate scrap or inverse gate requirement
+Preparation electricity,0.0504 kWh/kg prepared,0.0504 kWh/kg prepared,Scrap preparation electricity
+PSA recovery (R_PSA),0.77,0.95,Usable H2 after purification
+Stoichiometric water source,liquor pool,liquor pool,Water accounting convention

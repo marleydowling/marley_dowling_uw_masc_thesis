@@ -1,0 +1,6 @@
+route,representative_wrapper_node_logic,route_entry_basis,main_c3c4_operations,creditable_outputs,stage_d_gate
+Landfill,AL_RW_landfill_C3C4_CA / AL_RW_landfill_NET_CA,1 kg Al,"Collection, handling, disposal",None,No Stage D
+Reuse,AL_RW_reuse_C3_CA / AL_RW_reuse_NET_CA,1 kg Al,Preparation and cleaning via degreasing proxy,Like-for-like facade-component service,After reuse eligibility is met
+Conventional recycling,AL_RW_recycling_postcons_refiner_C3C4_CA / AL_RW_recycling_postcons_NET_CA,1 kg Al,"Scrap preparation, refiner/remelting treatment, alloy correction",Billet-equivalent feedstock,After billet-equivalence is met
+MS-FSC,Gate diversion -> shredding -> degreasing -> consolidation -> Stage D credit wrapper,1 kg chain-gate scrap / prepared scrap basis,"Shredding, degreasing, solid-state consolidation, trimming",Billet-equivalent output,After pass / quality gate is met
+Hydrolysis,Gate scrap -> preparation -> hydrolysis route -> Stage D H2 / Al(OH)3 offsets,1 kg gate scrap basis,"Preparation, reaction, liquor handling, PSA purification, solids recovery",Hydrogen and Al(OH)3,After product-specific conditioning is met

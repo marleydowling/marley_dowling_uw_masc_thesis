@@ -1,0 +1,145 @@
+mode,scenario,fg_db,route,case,method,score
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | acidification: terrestrial | terrestrial acidification potential (TAP)",3.246511632941367e-05
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | acidification: terrestrial | terrestrial acidification potential (TAP)",-0.2638562865668371
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | acidification: terrestrial | terrestrial acidification potential (TAP)",-0.26382382145050776
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",0.010874582732427035
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",-47.68674858734836
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",-47.675874004615935
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: freshwater | freshwater ecotoxicity potential (FETP)",0.0008049614769503705
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: freshwater | freshwater ecotoxicity potential (FETP)",-2.474765054290305
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: freshwater | freshwater ecotoxicity potential (FETP)",-2.473960092813355
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: marine | marine ecotoxicity potential (METP)",0.001079566371969733
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: marine | marine ecotoxicity potential (METP)",-3.448240819614325
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: marine | marine ecotoxicity potential (METP)",-3.4471612532423554
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: terrestrial | terrestrial ecotoxicity potential (TETP)",0.049311425121386865
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: terrestrial | terrestrial ecotoxicity potential (TETP)",-48.5115308110992
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: terrestrial | terrestrial ecotoxicity potential (TETP)",-48.46221938597781
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | energy resources: non-renewable, fossil | fossil fuel potential (FFP)",0.003046289540541771
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | energy resources: non-renewable, fossil | fossil fuel potential (FFP)",-10.285686920581888
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | energy resources: non-renewable, fossil | fossil fuel potential (FFP)",-10.282640631041348
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: freshwater | freshwater eutrophication potential (FEP)",2.911210293156467e-05
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: freshwater | freshwater eutrophication potential (FEP)",-0.016025227557834858
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: freshwater | freshwater eutrophication potential (FEP)",-0.015996115454903283
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: marine | marine eutrophication potential (MEP)",5.78085582554032e-05
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: marine | marine eutrophication potential (MEP)",-0.0019688254404982876
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: marine | marine eutrophication potential (MEP)",-0.0019110168822428827
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: carcinogenic | human toxicity potential (HTPc)",0.005498110005627875
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: carcinogenic | human toxicity potential (HTPc)",-46.61746256724059
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: carcinogenic | human toxicity potential (HTPc)",-46.61196445723494
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: non-carcinogenic | human toxicity potential (HTPnc)",0.0477184879029659
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: non-carcinogenic | human toxicity potential (HTPnc)",-59.36844142371334
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: non-carcinogenic | human toxicity potential (HTPnc)",-59.32072293581041
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ionising radiation | ionising radiation potential (IRP)",4.636330814923007e-06
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ionising radiation | ionising radiation potential (IRP)",-0.8535024607410677
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | ionising radiation | ionising radiation potential (IRP)",-0.8534978244102535
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | land use | agricultural land occupation (LOP)",0.0006051054372366889
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | land use | agricultural land occupation (LOP)",-0.7545381148566606
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | land use | agricultural land occupation (LOP)",-0.7539330094194241
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | material resources: metals/minerals | surplus ore potential (SOP)",0.00012146234658360221
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | material resources: metals/minerals | surplus ore potential (SOP)",-0.9416339209211322
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | material resources: metals/minerals | surplus ore potential (SOP)",-0.9415124585745486
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ozone depletion | ozone depletion potential (ODPinfinite)",1.5093238048948063e-08
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ozone depletion | ozone depletion potential (ODPinfinite)",-1.0852300037664985e-05
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | ozone depletion | ozone depletion potential (ODPinfinite)",-1.0837206799616033e-05
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | particulate matter formation | particulate matter formation potential (PMFP)",1.9110481858944027e-05
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | particulate matter formation | particulate matter formation potential (PMFP)",-0.10707240157407893
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | particulate matter formation | particulate matter formation potential (PMFP)",-0.10705329109222003
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: human health | photochemical oxidant formation potential: humans (HOFP)",2.5759914624860507e-05
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: human health | photochemical oxidant formation potential: humans (HOFP)",-0.11738866896862289
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: human health | photochemical oxidant formation potential: humans (HOFP)",-0.11736290905399796
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: terrestrial ecosystems | photochemical oxidant formation potential: ecosystems (EOFP)",2.744069335412274e-05
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: terrestrial ecosystems | photochemical oxidant formation potential: ecosystems (EOFP)",-0.12252341551209642
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: terrestrial ecosystems | photochemical oxidant formation potential: ecosystems (EOFP)",-0.12249597481874222
+contemp,,mtcw_foreground_contemporary,reuse,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | water use | water consumption potential (WCP)",0.0014589666505681563
+contemp,,mtcw_foreground_contemporary,reuse,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | water use | water consumption potential (WCP)",-0.8928985687393209
+contemp,,mtcw_foreground_contemporary,reuse,joint,"ReCiPe 2016 v1.03, midpoint (H) | water use | water consumption potential (WCP)",-0.8914396020887524
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | acidification: terrestrial | terrestrial acidification potential (TAP)",0.004696343144939823
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | acidification: terrestrial | terrestrial acidification potential (TAP)",-0.2627718559623659
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | acidification: terrestrial | terrestrial acidification potential (TAP)",-0.26746819910730574
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | acidification: terrestrial | terrestrial acidification potential (TAP)",-0.2627718559623659
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",2.1077354783481272
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",-42.74165425669198
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",-44.849389735040106
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",-42.74165425669198
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: freshwater | freshwater ecotoxicity potential (FETP)",0.882215106327863
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: freshwater | freshwater ecotoxicity potential (FETP)",-1.3159623753239262
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: freshwater | freshwater ecotoxicity potential (FETP)",-2.1981774816517894
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: freshwater | freshwater ecotoxicity potential (FETP)",-1.3159623753239262
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: marine | marine ecotoxicity potential (METP)",1.2152105557950643
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: marine | marine ecotoxicity potential (METP)",-1.881646139426618
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: marine | marine ecotoxicity potential (METP)",-3.0968566952216823
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: marine | marine ecotoxicity potential (METP)",-1.881646139426618
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: terrestrial | terrestrial ecotoxicity potential (TETP)",46.031101868898844
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: terrestrial | terrestrial ecotoxicity potential (TETP)",8.092073701724058
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: terrestrial | terrestrial ecotoxicity potential (TETP)",-37.93902816717478
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: terrestrial | terrestrial ecotoxicity potential (TETP)",8.092073701724058
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | energy resources: non-renewable, fossil | fossil fuel potential (FFP)",0.5862493513492392
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | energy resources: non-renewable, fossil | fossil fuel potential (FFP)",-8.853518352226423
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | energy resources: non-renewable, fossil | fossil fuel potential (FFP)",-9.439767703575663
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | energy resources: non-renewable, fossil | fossil fuel potential (FFP)",-8.853518352226423
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: freshwater | freshwater eutrophication potential (FEP)",0.0005820966099805046
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: freshwater | freshwater eutrophication potential (FEP)",-0.014467541226822523
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: freshwater | freshwater eutrophication potential (FEP)",-0.015049637836803027
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: freshwater | freshwater eutrophication potential (FEP)",-0.014467541226822523
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: marine | marine eutrophication potential (MEP)",-6.349685626451809e-06
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: marine | marine eutrophication potential (MEP)",-0.00121749365362916
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: marine | marine eutrophication potential (MEP)",-0.0012111439680027082
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: marine | marine eutrophication potential (MEP)",-0.00121749365362916
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: carcinogenic | human toxicity potential (HTPc)",0.5347165582232962
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: carcinogenic | human toxicity potential (HTPc)",-48.03900485479717
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: carcinogenic | human toxicity potential (HTPc)",-48.573721413020465
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: carcinogenic | human toxicity potential (HTPc)",-48.03900485479717
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: non-carcinogenic | human toxicity potential (HTPnc)",33.50613575878987
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: non-carcinogenic | human toxicity potential (HTPnc)",-20.201931264238514
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: non-carcinogenic | human toxicity potential (HTPnc)",-53.70806702302838
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: non-carcinogenic | human toxicity potential (HTPnc)",-20.201931264238514
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ionising radiation | ionising radiation potential (IRP)",0.033340604782233274
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | ionising radiation | ionising radiation potential (IRP)",-0.6767370512224147
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ionising radiation | ionising radiation potential (IRP)",-0.710077656004648
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | ionising radiation | ionising radiation potential (IRP)",-0.6767370512224147
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | land use | agricultural land occupation (LOP)",0.10998370628897411
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | land use | agricultural land occupation (LOP)",-0.5278740078608467
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | land use | agricultural land occupation (LOP)",-0.6378577141498208
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | land use | agricultural land occupation (LOP)",-0.5278740078608467
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | material resources: metals/minerals | surplus ore potential (SOP)",0.08374845888895348
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | material resources: metals/minerals | surplus ore potential (SOP)",-0.8947517506539834
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | material resources: metals/minerals | surplus ore potential (SOP)",-0.9785002095429368
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | material resources: metals/minerals | surplus ore potential (SOP)",-0.8947517506539834
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ozone depletion | ozone depletion potential (ODPinfinite)",1.744244735752252e-06
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | ozone depletion | ozone depletion potential (ODPinfinite)",-8.290746294402202e-06
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | ozone depletion | ozone depletion potential (ODPinfinite)",-1.0034991030154454e-05
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | ozone depletion | ozone depletion potential (ODPinfinite)",-8.290746294402202e-06
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | particulate matter formation | particulate matter formation potential (PMFP)",0.0019756236705577427
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | particulate matter formation | particulate matter formation potential (PMFP)",-0.10322789879954339
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | particulate matter formation | particulate matter formation potential (PMFP)",-0.10520352247010113
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | particulate matter formation | particulate matter formation potential (PMFP)",-0.10322789879954339
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: human health | photochemical oxidant formation potential: humans (HOFP)",0.004809727041420834
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: human health | photochemical oxidant formation potential: humans (HOFP)",-0.11009743609924881
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: human health | photochemical oxidant formation potential: humans (HOFP)",-0.11490716314066965
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: human health | photochemical oxidant formation potential: humans (HOFP)",-0.11009743609924881
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: terrestrial ecosystems | photochemical oxidant formation potential: ecosystems (EOFP)",0.005138240882881033
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: terrestrial ecosystems | photochemical oxidant formation potential: ecosystems (EOFP)",-0.11464116129708715
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: terrestrial ecosystems | photochemical oxidant formation potential: ecosystems (EOFP)",-0.11977940217996819
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: terrestrial ecosystems | photochemical oxidant formation potential: ecosystems (EOFP)",-0.11464116129708715
+contemp,,mtcw_foreground_contemporary,recycling_postcons,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | water use | water consumption potential (WCP)",-0.0008385505740202791
+contemp,,mtcw_foreground_contemporary,recycling_postcons,net_wrapper,"ReCiPe 2016 v1.03, midpoint (H) | water use | water consumption potential (WCP)",-0.9152100216344283
+contemp,,mtcw_foreground_contemporary,recycling_postcons,staged_total,"ReCiPe 2016 v1.03, midpoint (H) | water use | water consumption potential (WCP)",-0.9143714710604081
+contemp,,mtcw_foreground_contemporary,recycling_postcons,joint,"ReCiPe 2016 v1.03, midpoint (H) | water use | water consumption potential (WCP)",-0.9152100216344283
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | acidification: terrestrial | terrestrial acidification potential (TAP)",0.00027754513402832465
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",0.09474231635632595
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: freshwater | freshwater ecotoxicity potential (FETP)",0.029940777581283936
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: marine | marine ecotoxicity potential (METP)",0.04125435317419252
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ecotoxicity: terrestrial | terrestrial ecotoxicity potential (TETP)",0.5387991306899995
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | energy resources: non-renewable, fossil | fossil fuel potential (FFP)",0.036344778711875136
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: freshwater | freshwater eutrophication potential (FEP)",1.5884001388795626e-05
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | eutrophication: marine | marine eutrophication potential (MEP)",3.9141141252312415e-05
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: carcinogenic | human toxicity potential (HTPc)",0.005856940344741424
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | human toxicity: non-carcinogenic | human toxicity potential (HTPnc)",1.0871135008316397
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ionising radiation | ionising radiation potential (IRP)",0.0015329126989406757
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | land use | agricultural land occupation (LOP)",0.013035702651860662
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | material resources: metals/minerals | surplus ore potential (SOP)",0.00036163307310278607
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | ozone depletion | ozone depletion potential (ODPinfinite)",7.37692773890287e-08
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | particulate matter formation | particulate matter formation potential (PMFP)",0.00014739592086441405
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: human health | photochemical oxidant formation potential: humans (HOFP)",0.00045008828674614605
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | photochemical oxidant formation: terrestrial ecosystems | photochemical oxidant formation potential: ecosystems (EOFP)",0.000472893986737261
+contemp,,mtcw_foreground_contemporary,landfill,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | water use | water consumption potential (WCP)",0.0008326802099424075

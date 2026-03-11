@@ -1,0 +1,34 @@
+Appendix C Validation Log
+================================================================================
+Timestamp: 2026-03-11T14:07:55
+Repo root: C:\brightway_workspace\repo\thesis-pclca
+Source dir: C:\brightway_workspace\repo_support\appendix_c_sources
+
+Resolved source files
+--------------------------------------------------------------------------------
+contemporary_summary: C:\brightway_workspace\repo_support\appendix_c_sources\appendixC_contemporary_fast\appendixC_contemporary_summary.txt
+contemporary_freeze_csv: C:\brightway_workspace\repo_support\appendix_c_sources\appendixC_contemporary_fast\appendixC_contemporary_freeze_record.csv
+contemporary_freeze_json: C:\brightway_workspace\repo_support\appendix_c_sources\appendixC_contemporary_fast\appendixC_contemporary_freeze_record.json
+contemporary_artifact_checksums_csv: C:\brightway_workspace\repo_support\appendix_c_sources\appendixC_contemporary_fast\appendixC_contemporary_artifact_checksums.csv
+prospective_summary: C:\brightway_workspace\repo_support\appendix_c_sources\appendixC_prospective_fast\appendixC_prospective_summary.txt
+prospective_freeze_csv: C:\brightway_workspace\repo_support\appendix_c_sources\appendixC_prospective_fast\appendixC_prospective_freeze_records.csv
+prospective_freeze_json: C:\brightway_workspace\repo_support\appendix_c_sources\appendixC_prospective_fast\appendixC_prospective_freeze_records.json
+prospective_source_vs_working_csv: C:\brightway_workspace\repo_support\appendix_c_sources\appendixC_prospective_fast\appendixC_prospective_source_vs_working_comparison.csv
+
+Output row counts
+--------------------------------------------------------------------------------
+c1: 28
+c2: 3
+c3: 3
+c4: 3
+c5: 7
+hash_registry: 7
+freeze_manifest: 8
+
+Warnings
+--------------------------------------------------------------------------------
+None
+
+Interpretation note
+--------------------------------------------------------------------------------
+This log confirms source discovery and output creation only. It does not guarantee that every thesis-facing label is semantically perfect. High-stakes values should still be spot-checked against the source freeze records and checksum tables.

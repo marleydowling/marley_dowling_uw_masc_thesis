@@ -1,0 +1,53 @@
+{
+  "F_AL": {
+    "dist": "triangular",
+    "low": 0.9,
+    "mode": 1.0,
+    "high": 1.0
+  },
+  "X_AL": {
+    "dist": "triangular",
+    "low": 0.8,
+    "mode": 0.92,
+    "high": 0.98
+  },
+  "LIQUOR_L_PER_KG_AL": {
+    "dist": "triangular",
+    "low": 80.0,
+    "mode": 120.0,
+    "high": 200.0
+  },
+  "LIQUOR_MAKEUP_FRACTION": {
+    "dist": "triangular",
+    "low": 0.05,
+    "mode": 0.2,
+    "high": 0.6
+  },
+  "Y_PREP": {
+    "dist": "triangular",
+    "low": 0.8,
+    "mode": 0.9,
+    "high": 0.95
+  },
+  "PREP_ELEC_KWH_PER_KG_PREPARED": {
+    "dist": "loguniform",
+    "low": 0.02,
+    "high": 0.08
+  },
+  "E_AUX_KWH_PER_KG_PREPARED": {
+    "dist": "loguniform",
+    "low": 0.005,
+    "high": 0.08
+  },
+  "E_THERM_KWH_PER_KG_PREPARED": {
+    "dist": "loguniform",
+    "low": 0.02,
+    "high": 0.5
+  },
+  "R_PSA": {
+    "dist": "triangular",
+    "low": 0.7,
+    "mode": 0.9,
+    "high": 0.95
+  }
+}

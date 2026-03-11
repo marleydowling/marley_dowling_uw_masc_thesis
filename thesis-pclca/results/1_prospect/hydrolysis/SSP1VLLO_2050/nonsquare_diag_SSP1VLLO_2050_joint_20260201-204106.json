@@ -1,0 +1,136 @@
+{
+  "scenario": "SSP1VLLO_2050",
+  "case": "joint",
+  "method": "ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",
+  "error": "Technosphere matrix is not square: 107025 activities (columns) and 107022 products (rows). Use LeastSquaresLCA to solve this system, or fix the input data",
+  "tech_shape": [
+    107022,
+    107025
+  ],
+  "n_activities": 107025,
+  "n_products": 107022,
+  "n_bad_listed": 12,
+  "bad_activity_examples": [
+    {
+      "activity_key": "('mtcw_foreground_prospective', 'al_primary_ingot_CA__conventional__SSP1VLLO_2050')",
+      "db": "mtcw_foreground_prospective",
+      "code": "al_primary_ingot_CA__conventional__SSP1VLLO_2050",
+      "name": "Aluminium production, primary, ingot (CA) | conventional | SSP1VLLO_2050",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', 'al_primary_ingot_CA__inert_anode_proxy__SSP1VLLO_2050')",
+      "db": "mtcw_foreground_prospective",
+      "code": "al_primary_ingot_CA__inert_anode_proxy__SSP1VLLO_2050",
+      "name": "Aluminium production, primary, ingot (CA) | inert-anode proxy | SSP1VLLO_2050",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', 'al_primary_ingot_CA__conventional__SSP2M_2050')",
+      "db": "mtcw_foreground_prospective",
+      "code": "al_primary_ingot_CA__conventional__SSP2M_2050",
+      "name": "Aluminium production, primary, ingot (CA) | conventional | SSP2M_2050",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', 'al_primary_ingot_CA__inert_anode_proxy__SSP2M_2050')",
+      "db": "mtcw_foreground_prospective",
+      "code": "al_primary_ingot_CA__inert_anode_proxy__SSP2M_2050",
+      "name": "Aluminium production, primary, ingot (CA) | inert-anode proxy | SSP2M_2050",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', 'al_primary_ingot_CA__conventional__SSP5H_2050')",
+      "db": "mtcw_foreground_prospective",
+      "code": "al_primary_ingot_CA__conventional__SSP5H_2050",
+      "name": "Aluminium production, primary, ingot (CA) | conventional | SSP5H_2050",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', 'al_primary_ingot_CA__inert_anode_proxy__SSP5H_2050')",
+      "db": "mtcw_foreground_prospective",
+      "code": "al_primary_ingot_CA__inert_anode_proxy__SSP5H_2050",
+      "name": "Aluminium production, primary, ingot (CA) | inert-anode proxy | SSP5H_2050",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', '84428645d1a640de9aa040461686c9ee')",
+      "db": "mtcw_foreground_prospective",
+      "code": "84428645d1a640de9aa040461686c9ee",
+      "name": "aluminium production, primary, ingot | SSP1VLLO_2050 | CONV_INGOT_PROXY",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', '2e33bd622fff4a59a85133e673ed1c80')",
+      "db": "mtcw_foreground_prospective",
+      "code": "2e33bd622fff4a59a85133e673ed1c80",
+      "name": "aluminium production, primary, ingot | SSP1VLLO_2050 | INERT_INGOT_PROXY",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', '6e610fe9478a4a3298f05a712106f136')",
+      "db": "mtcw_foreground_prospective",
+      "code": "6e610fe9478a4a3298f05a712106f136",
+      "name": "aluminium production, primary, ingot | SSP2M_2050 | CONV_INGOT_PROXY",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', '6428f65b5fc84de2aa1d6fb9ddcc18cf')",
+      "db": "mtcw_foreground_prospective",
+      "code": "6428f65b5fc84de2aa1d6fb9ddcc18cf",
+      "name": "aluminium production, primary, ingot | SSP2M_2050 | INERT_INGOT_PROXY",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', '0ae12b2a6d654356b5e89d750354a46f')",
+      "db": "mtcw_foreground_prospective",
+      "code": "0ae12b2a6d654356b5e89d750354a46f",
+      "name": "aluminium production, primary, ingot | SSP5H_2050 | CONV_INGOT_PROXY",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    },
+    {
+      "activity_key": "('mtcw_foreground_prospective', '12628b00022c475b8ce0780636bc4df4')",
+      "db": "mtcw_foreground_prospective",
+      "code": "12628b00022c475b8ce0780636bc4df4",
+      "name": "aluminium production, primary, ingot | SSP5H_2050 | INERT_INGOT_PROXY",
+      "location": "CA",
+      "reference_product": "aluminium, primary, ingot",
+      "unit": "kilogram",
+      "n_production_exchanges": 2
+    }
+  ],
+  "note": "Columns>rows typically indicates some activities in the reachable system have missing/ambiguous production exchanges or reference products. Run your integrity fixer on the BACKGROUND db(s) too."
+}

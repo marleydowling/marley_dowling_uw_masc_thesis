@@ -1,0 +1,8 @@
+tag,n,qrmse,qrmse_rel,denom_abs_median,meets_tol,stable_hits,tol_qrmse_rel,q_probs,cases
+contemp_hydrolysis_uncertainty,1000,inf,inf,12.64116527938548,False,0,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"
+contemp_hydrolysis_uncertainty,1200,0.13981618173508753,0.011029295342939005,12.676800954885877,False,0,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"
+contemp_hydrolysis_uncertainty,1400,0.09023509595962076,0.0070993093837829115,12.710404784688848,True,1,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"
+contemp_hydrolysis_uncertainty,1600,0.16665211007869526,0.013135112206211002,12.687528470437655,False,0,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"
+contemp_hydrolysis_uncertainty,1800,0.07320512743666421,0.005786531755056542,12.650950610042734,True,1,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"
+contemp_hydrolysis_uncertainty,2000,0.09314190991013849,0.007316927122491709,12.729648437228102,True,2,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"
+contemp_hydrolysis_uncertainty,2200,0.10637461729379634,0.008376684171580401,12.698893155682505,True,3,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95","c3c4,staged_total,joint"

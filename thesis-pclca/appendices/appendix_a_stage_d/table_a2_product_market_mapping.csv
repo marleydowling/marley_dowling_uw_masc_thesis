@@ -1,0 +1,7 @@
+route,foreground_output,output_basis_in_foreground_model,mapped_receiving_product,receiving_market_basis,notes
+Reuse,Reusable aluminium component output,1 kg aluminium route basis with preparation burdens scaled through the degreasing conversion,Aluminium non-structural facade-component replacement,Canada-wide,"Market boundary remained a facade-component/service claim, but the final implementation used a combined ingot-plus-extrusion proxy because a directly observable reuse market time series was not available"
+Conventional recycling,Refined/remelted metallic output,1 kg aluminium route basis after route-side realization,Wrought extrusion feedstock (billet-equivalent),Canada-wide,Implemented through an avoided primary-ingot proxy in the contemporary case
+MS-FSC,Consolidated billet-equivalent output,"Route-specific chain input basis, realized after shred and retained-yield losses",Wrought extrusion feedstock (billet-equivalent),Canada-wide,Quality-gated billet-equivalent substitution
+Hydrolysis - H2,Purified gaseous hydrogen,Route output after hydrolysis realization and PSA recovery,Gaseous hydrogen represented through a low-pressure market proxy,Canada-wide,Final implementation used a low-pressure hydrogen proxy basis
+Hydrolysis - Al(OH)3,Recovered aluminium hydroxide solids,Recovered solids after stoichiometric realization,Aluminium hydroxide supply,Global background proxy,No additional conditioning step imposed in the final implementation
+Landfill,No creditable output,Not applicable,No mapped product,Not applicable,No mapped product

@@ -1,0 +1,8 @@
+qa_family,check,purpose
+Location completeness,Activities missing location = 0,Confirms geography fields are populated for later routing and inspection
+Link completeness,Missing input references = 0,Confirms exchanges do not point to unresolved inputs
+Database completeness,Missing input database references = 0,Confirms exchanges do not point to absent databases
+Internal technosphere integrity,Broken internal technosphere links = 0,Confirms no broken internal foreground/background links
+External dependency scan,Unexpected external technosphere dependencies = 0,Confirms no unintended dependencies outside the intended database set
+Biosphere consistency,Single expected biosphere database detected,Confirms biosphere links are resolved to the intended biosphere system
+Matrix processability,Matrix processable = TRUE,Confirms Brightway can process the database without error

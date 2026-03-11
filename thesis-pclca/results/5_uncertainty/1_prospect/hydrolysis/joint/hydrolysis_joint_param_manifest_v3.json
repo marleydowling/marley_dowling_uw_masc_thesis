@@ -1,0 +1,23 @@
+{
+  "version": "hydrolysis_joint_param_spec_v3 (revised + myop->perf rewrite)",
+  "timestamp": "20260227-141727",
+  "central_2050": {
+    "f_Al": 1.0,
+    "X_Al": 0.95,
+    "L": 150.0,
+    "C_NaOH": 0.24,
+    "f_makeup": 0.2,
+    "Y_prep": 0.85,
+    "R_PSA": 0.95,
+    "E_aux": 0.15,
+    "E_therm": 0.05,
+    "prep_elec_kwh_per_kg_prepared": 0.0504,
+    "liquor_density_kg_per_L": 1.0
+  },
+  "notes": [
+    "BG uncertainty is handled at run-time via use_distributions=True on BG + FG clone exchanges.",
+    "FG dependencies are enforced in the runner by overwriting coupled injection coefficients.",
+    "Purge is SAFE: does not resolve exc.input; cleans raw keys; can rewrite MYOP->PERF references.",
+    "Optional stripping of non-waste negative market outputs in C3C4-chain proxies."
+  ]
+}

@@ -1,0 +1,10 @@
+target_sheet,status,included_sheets,direct_dependencies,recursive_dependencies,output_workbook
+CA_Elec_Contemp,ok,CA_Elec_Contemp,,,C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_CA_Elec_Contemp.xlsx
+ON_Elec_Contemp,ok,ON_Elec_Contemp,,,C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_ON_Elec_Contemp.xlsx
+QC_Elec_Contemp,ok,QC_Elec_Contemp,,,C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_QC_Elec_Contemp.xlsx
+AB_Elec_Contemp,ok,AB_Elec_Contemp,,,C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_AB_Elec_Contemp.xlsx
+BC_Elec_Contemp,ok,BC_Elec_Contemp,,,C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_BC_Elec_Contemp.xlsx
+CA_Ingot_Contemp,ok,CA_Ingot_Contemp,,,C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_CA_Ingot_Contemp.xlsx
+All Alum. Producers Contemp,ok,All Alum. Producers Contemp,,,C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_All_Alum_Producers_Contemp.xlsx
+Hydrogen Prod Content,missing_target_sheet,,,,
+AB Hydrogen Production Calcs,ok,AB Hydrogen Production Calcs,,,C:\brightway_workspace\repo\thesis-pclca\appendices\appendix_d_markets_marginals\calculation_workbooks\appendix_d_AB_Hydrogen_Production_Calcs.xlsx

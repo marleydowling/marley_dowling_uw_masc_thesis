@@ -1,0 +1,115 @@
+{
+  "records": {
+    "joint::SSP2M_2050::avoided_extr": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_UP_avoided_impact_extrusion_CA__SSP2M_2050"
+      ],
+      "id": 285096694542049289,
+      "location": "CA",
+      "name": "Avoided production proxy: impact extrusion [SSP2M_2050]",
+      "ref_product": "impact extrusion of aluminium, 2 strokes"
+    },
+    "joint::SSP2M_2050::avoided_ingot": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_UP_avoided_primary_ingot_CA__SSP2M_2050"
+      ],
+      "id": 285096696182022144,
+      "location": "CA",
+      "name": "Avoided production proxy: aluminium primary ingot [SSP2M_2050]",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "joint::SSP2M_2050::rw_landfill_net": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_RW_landfill_NET_CA__SSP2M_2050"
+      ],
+      "id": 285096696362377224,
+      "location": "CA",
+      "name": "Route wrapper NET: landfill [SSP2M_2050]",
+      "ref_product": "net route wrapper service"
+    },
+    "joint::SSP2M_2050::rw_recycling_net": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_RW_recycling_postcons_NET_CA__SSP2M_2050"
+      ],
+      "id": 285096694990839810,
+      "location": "CA",
+      "name": "Route wrapper NET: recycling post-consumer [SSP2M_2050]",
+      "ref_product": "net route wrapper service"
+    },
+    "joint::SSP2M_2050::rw_reuse_net": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_RW_reuse_NET_CA__SSP2M_2050"
+      ],
+      "id": 285096695758397441,
+      "location": "CA",
+      "name": "Route wrapper NET: reuse (C3 + Stage D) [SSP2M_2050]",
+      "ref_product": "net route wrapper service"
+    },
+    "joint::SSP2M_2050::sd_recycling": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_SD_credit_recycling_postcons_CA__SSP2M_2050"
+      ],
+      "id": 285096695506739200,
+      "location": "CA",
+      "name": "Stage D credit (recycling, post-consumer): avoid provider \u00d7 recovered yield [SSP2M_2050]",
+      "ref_product": "stage d credit service"
+    },
+    "joint::SSP2M_2050::sd_reuse_combo": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_SD_credit_reuse_ingot_plus_extrusion_CA__SSP2M_2050"
+      ],
+      "id": 285096695758397440,
+      "location": "CA",
+      "name": "Stage D credit (reuse): avoid ingot + avoid extrusion [SSP2M_2050]",
+      "ref_product": "stage d credit service"
+    },
+    "joint::SSP2M_2050::up_deg": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_UP_degreasing_CA__SSP2M_2050"
+      ],
+      "id": 285096695506739205,
+      "location": "CA",
+      "name": "Unit process: degreasing [SSP2M_2050]",
+      "ref_product": "degreasing, metal part in alkaline bath"
+    },
+    "joint::SSP2M_2050::up_land": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_UP_landfill_CA__SSP2M_2050"
+      ],
+      "id": 285096695729037312,
+      "location": "CA",
+      "name": "Unit process: landfill treatment [SSP2M_2050]",
+      "ref_product": "waste aluminium"
+    },
+    "joint::SSP2M_2050::up_ref_base": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_UP_refiner_postcons_CA__SSP2M_2050"
+      ],
+      "id": 285096695645151232,
+      "location": "CA",
+      "name": "Unit process: refiner treatment (post-consumer) [BASE] [SSP2M_2050]",
+      "ref_product": "aluminium scrap, post-consumer, prepared for melting"
+    },
+    "joint::SSP2M_2050::up_ref_nocredit": {
+      "bw_key": [
+        "mtcw_foreground_prospective__joint",
+        "AL_UP_refiner_postcons_NO_CREDIT_CA__SSP2M_2050"
+      ],
+      "id": 285096695880032258,
+      "location": "CA",
+      "name": "Unit process: refiner treatment [NO EMBEDDED CREDIT; external_stageD] [SSP2M_2050]",
+      "ref_product": "aluminium scrap, post-consumer, prepared for melting"
+    }
+  },
+  "version": "al_base_routes_prospect_uncertainty_v1"
+}

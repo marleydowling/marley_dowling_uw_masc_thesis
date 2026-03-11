@@ -1,0 +1,5 @@
+tag,n,qrmse,qrmse_rel,denom_abs_median,meets_tol,stable_hits,tol_qrmse_rel,q_probs,n_keys
+contemp_al_base_routes_uncertainty_rewire_embedded,1200,inf,inf,48.709619339306315,False,0,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95",10
+contemp_al_base_routes_uncertainty_rewire_embedded,1400,0.1122727989331032,0.002309435249506281,48.614828650036955,True,1,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95",10
+contemp_al_base_routes_uncertainty_rewire_embedded,1600,0.07286764194456166,0.001498317409245049,48.6329808990721,True,2,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95",10
+contemp_al_base_routes_uncertainty_rewire_embedded,1800,0.055478873429547895,0.001140259987027819,48.65458234148698,True,3,0.01,"0.05,0.1,0.25,0.5,0.75,0.9,0.95",10

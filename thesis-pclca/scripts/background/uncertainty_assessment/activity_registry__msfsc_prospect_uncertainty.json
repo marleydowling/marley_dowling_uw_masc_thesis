@@ -1,0 +1,332 @@
+{
+  "AL_primary_ingot_CUSTOM_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_ingot_CUSTOM_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, ingot (custom; baseline liquid) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:33"
+  },
+  "AL_primary_ingot_CUSTOM_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_ingot_CUSTOM_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, ingot (custom; baseline liquid) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:29"
+  },
+  "AL_primary_ingot_CUSTOM_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_ingot_CUSTOM_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, ingot (custom; baseline liquid) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:37:07"
+  },
+  "AL_primary_ingot_CUSTOM_INERT_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_ingot_CUSTOM_INERT_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, ingot (custom; inert liquid) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:34"
+  },
+  "AL_primary_ingot_CUSTOM_INERT_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_ingot_CUSTOM_INERT_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, ingot (custom; inert liquid) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:31"
+  },
+  "AL_primary_ingot_CUSTOM_INERT_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_ingot_CUSTOM_INERT_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, ingot (custom; inert liquid) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:37:08"
+  },
+  "AL_primary_liquid_BASE_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_liquid_BASE_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, liquid (baseline clone) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:30"
+  },
+  "AL_primary_liquid_BASE_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_liquid_BASE_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, liquid (baseline clone) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:26"
+  },
+  "AL_primary_liquid_BASE_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_liquid_BASE_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, liquid (baseline clone) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:37:04"
+  },
+  "AL_primary_liquid_INERT_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_liquid_INERT_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, liquid (INERT anode heuristic) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:31"
+  },
+  "AL_primary_liquid_INERT_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_liquid_INERT_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, liquid (INERT anode heuristic) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:28"
+  },
+  "AL_primary_liquid_INERT_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_primary_liquid_INERT_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Primary aluminium, liquid (INERT anode heuristic) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:37:05"
+  },
+  "MSFSC_degrease_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_degrease_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC Degrease (CA; SSP1VLLO_2050)",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:19"
+  },
+  "MSFSC_degrease_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_degrease_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC Degrease (CA; SSP2M_2050)",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:13"
+  },
+  "MSFSC_degrease_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_degrease_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC Degrease (CA; SSP5H_2050)",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:36:52"
+  },
+  "MSFSC_fsc_step_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_fsc_step_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC FSC step (elec + lube) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:23"
+  },
+  "MSFSC_fsc_step_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_fsc_step_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC FSC step (elec + lube) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:18"
+  },
+  "MSFSC_fsc_step_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_fsc_step_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC FSC step (elec + lube) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:36:56"
+  },
+  "MSFSC_gateA_DIVERT_PREP_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_gateA_DIVERT_PREP_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC Gate A diverted prepared scrap (CA; SSP1VLLO_2050)",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:14"
+  },
+  "MSFSC_gateA_DIVERT_PREP_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_gateA_DIVERT_PREP_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC Gate A diverted prepared scrap (CA; SSP2M_2050)",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:09"
+  },
+  "MSFSC_gateA_DIVERT_PREP_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_gateA_DIVERT_PREP_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC Gate A diverted prepared scrap (CA; SSP5H_2050)",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:36:48"
+  },
+  "MSFSC_route_C3C4_only_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_route_C3C4_only_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC route (C3\u2013C4 only) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:35"
+  },
+  "MSFSC_route_C3C4_only_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_route_C3C4_only_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC route (C3\u2013C4 only) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:31"
+  },
+  "MSFSC_route_C3C4_only_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_route_C3C4_only_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC route (C3\u2013C4 only) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:37:09"
+  },
+  "MSFSC_route_total_STAGED_NET_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_route_total_STAGED_NET_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC route (total; NET staged) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:35"
+  },
+  "MSFSC_route_total_STAGED_NET_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_route_total_STAGED_NET_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC route (total; NET staged) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:32"
+  },
+  "MSFSC_route_total_STAGED_NET_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_route_total_STAGED_NET_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC route (total; NET staged) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:37:10"
+  },
+  "MSFSC_route_total_UNITSTAGED_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_route_total_UNITSTAGED_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC route (total; UNITSTAGED) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:36"
+  },
+  "MSFSC_route_total_UNITSTAGED_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_route_total_UNITSTAGED_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC route (total; UNITSTAGED) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:32"
+  },
+  "MSFSC_route_total_UNITSTAGED_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_route_total_UNITSTAGED_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC route (total; UNITSTAGED) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:37:10"
+  },
+  "MSFSC_stageD_credit_ingot_inert_CA_SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_stageD_credit_ingot_inert_CA_SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC Stage D credit (avoid primary ingot; inert) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:33:34"
+  },
+  "MSFSC_stageD_credit_ingot_inert_CA_SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_stageD_credit_ingot_inert_CA_SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC Stage D credit (avoid primary ingot; inert) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:34:31"
+  },
+  "MSFSC_stageD_credit_ingot_inert_CA_SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "MSFSC_stageD_credit_ingot_inert_CA_SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "MSFSC Stage D credit (avoid primary ingot; inert) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:37:09"
+  }
+}

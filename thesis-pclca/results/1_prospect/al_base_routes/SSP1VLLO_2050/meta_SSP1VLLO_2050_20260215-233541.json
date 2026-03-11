@@ -1,0 +1,35 @@
+{
+  "scenario": "SSP1VLLO_2050",
+  "bg_db": "prospective_conseq_IMAGE_SSP1VLLO_2050_PERF",
+  "fg_db": "mtcw_foreground_prospective",
+  "fu_al_kg": 3.67,
+  "credit_mode": "external_stageD",
+  "routes": [
+    "reuse",
+    "recycling_postcons",
+    "landfill"
+  ],
+  "picked": {
+    "reuse": {
+      "policy": "explicit",
+      "net": "('mtcw_foreground_prospective', 'AL_RW_reuse_NET_CA__SSP1VLLO_2050')",
+      "c3c4_canonical": "('mtcw_foreground_prospective', 'AL_RW_reuse_C3_CA__SSP1VLLO_2050')",
+      "c3c4_used": "('mtcw_foreground_prospective', 'AL_RW_reuse_C3_CA__SSP1VLLO_2050')",
+      "stageD": "('mtcw_foreground_prospective', 'AL_SD_credit_reuse_ingot_plus_extrusion_CA__SSP1VLLO_2050')"
+    },
+    "recycling_postcons": {
+      "policy": "explicit",
+      "net": "('mtcw_foreground_prospective', 'AL_RW_recycling_postcons_NET_CA__SSP1VLLO_2050')",
+      "c3c4_canonical": "('mtcw_foreground_prospective', 'AL_RW_recycling_postcons_refiner_C3C4_CA__SSP1VLLO_2050')",
+      "c3c4_used": "('mtcw_foreground_prospective', 'AL_RW_recycling_postcons_refiner_C3C4_CA__SSP1VLLO_2050')",
+      "stageD": "('mtcw_foreground_prospective', 'AL_SD_credit_recycling_postcons_CA__SSP1VLLO_2050')"
+    },
+    "landfill": {
+      "policy": "none",
+      "net": "('mtcw_foreground_prospective', 'AL_RW_landfill_NET_CA__SSP1VLLO_2050')",
+      "c3c4_canonical": "('mtcw_foreground_prospective', 'AL_RW_landfill_C3C4_CA__SSP1VLLO_2050')",
+      "c3c4_used": "('mtcw_foreground_prospective', 'AL_RW_landfill_C3C4_CA__SSP1VLLO_2050')",
+      "stageD": null
+    }
+  }
+}

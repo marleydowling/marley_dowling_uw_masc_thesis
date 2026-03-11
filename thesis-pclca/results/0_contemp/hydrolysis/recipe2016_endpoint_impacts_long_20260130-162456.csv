@@ -1,0 +1,445 @@
+case,method,score
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | climate change: freshwater ecosystems no LT",5.464435520938984e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | acidification: terrestrial no LT",1.4157556191997416e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | climate change: freshwater ecosystems no LT",4.59345528659028e-12
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | climate change: terrestrial ecosystems no LT",1.6837791679790105e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | ecotoxicity: freshwater no LT",1.0404990637169293e-11
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | ecotoxicity: marine no LT",1.6127046623176397e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | ecotoxicity: terrestrial no LT",3.3092516670618774e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | eutrophication: freshwater no LT",1.113745290382941e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | eutrophication: marine no LT",2.999035582957461e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | land use no LT",2.2260713985148718e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | photochemical oxidant formation: terrestrial ecosystems no LT",2.507527796780173e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | water use: aquatic ecosystems no LT",2.1181768701287466e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | water use: terrestrial ecosystems no LT",4.734335978588313e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | climate change: human health no LT",8.419066778486498e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | human toxicity: carcinogenic no LT",1.5019452210290621e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | human toxicity: non-carcinogenic no LT",5.638472155526472e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | ionising radiation no LT",-4.05400043314451e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | ozone depletion no LT",8.43397735829323e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | particulate matter formation no LT",2.7275564822777436e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | photochemical oxidant formation: human health no LT",1.753216149524689e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | water use: human health no LT",7.785352163112542e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | natural resources no LT | energy resources: non-renewable, fossil no LT",0.1974888890298847
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | natural resources no LT | material resources: metals/minerals no LT",0.0032483714648559436
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | total: ecosystem quality no LT | ecosystem quality no LT",2.2489094280403501e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | total: human health no LT | human health no LT",0.00018367085460326073
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) no LT | total: natural resources no LT | natural resources no LT",0.20073726049474067
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | acidification: terrestrial",1.4157706236446417e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | climate change: freshwater ecosystems",4.593456113991589e-12
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | climate change: terrestrial ecosystems",1.6837794709493963e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | ecotoxicity: freshwater",4.674977523133033e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | ecotoxicity: marine",5.746189193115222e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | ecotoxicity: terrestrial",3.28290429461029e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | eutrophication: freshwater",9.405283245212155e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | eutrophication: marine",1.607544779553502e-12
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | land use",2.2260713985148718e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | photochemical oxidant formation: terrestrial ecosystems",2.507763422236534e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | water use: aquatic ecosystems",2.1181768701287466e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | water use: terrestrial ecosystems",4.734335978588313e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | human health | climate change: human health",8.419068293338437e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | human health | human toxicity: carcinogenic",0.00031387796635616653
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | human health | human toxicity: non-carcinogenic",0.0010911571084326885
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | human health | ionising radiation",-1.3747750609709188e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | human health | ozone depletion",8.434328004219129e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | human health | particulate matter formation",2.731041476876513e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | human health | photochemical oxidant formation: human health",1.753382197917546e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | human health | water use: human health",7.785352163112542e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | natural resources | energy resources: non-renewable, fossil",0.1974888890298847
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | natural resources | material resources: metals/minerals",0.0032483714648559436
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | total: ecosystem quality | ecosystem quality",7.921305116555752e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | total: human health | human health",0.0015173269166044198
+c3c4,"ReCiPe 2016 v1.03, endpoint (E) | total: natural resources | natural resources",0.20073726049474067
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | acidification: terrestrial no LT",1.4157556191997416e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | climate change: terrestrial ecosystems no LT",2.0002586628398547e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | ecotoxicity: freshwater no LT",8.550502376686278e-12
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | ecotoxicity: marine no LT",2.9079161061951346e-12
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | ecotoxicity: terrestrial no LT",3.080143920705486e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | eutrophication: freshwater no LT",1.113745290382941e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | eutrophication: marine no LT",2.999035582957461e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | land use no LT",2.2260713985148718e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | photochemical oxidant formation: terrestrial ecosystems no LT",2.507527796780173e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | water use: aquatic ecosystems no LT",2.1181768701287466e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | water use: terrestrial ecosystems no LT",4.734335978588313e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | climate change: human health no LT",6.6294531008402875e-06
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | human toxicity: carcinogenic no LT",2.9811407574899394e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | human toxicity: non-carcinogenic no LT",1.6153013530310122e-06
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | ionising radiation no LT",-3.867067648220559e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | ozone depletion no LT",2.1668409184122805e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | particulate matter formation no LT",2.7275564822777436e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | photochemical oxidant formation: human health no LT",1.753216149524689e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | water use: human health no LT",7.785352163112542e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | natural resources no LT | energy resources: non-renewable, fossil no LT",0.03382878010476527
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | natural resources no LT | material resources: metals/minerals no LT",0.0032483714648559436
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | total: ecosystem quality no LT | ecosystem quality no LT",6.509699605944072e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | total: human health no LT | human health no LT",3.661628080351114e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) no LT | total: natural resources no LT | natural resources no LT",0.037077151569621214
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | acidification: terrestrial",1.4157706236446417e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | climate change: freshwater ecosystems",5.464439027398079e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | climate change: terrestrial ecosystems",2.000259945465682e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | ecotoxicity: freshwater",4.656449311195126e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | ecotoxicity: marine",9.516242276848264e-11
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | ecotoxicity: terrestrial",3.055582225259605e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | eutrophication: freshwater",9.405283245212155e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | eutrophication: marine",1.607544779553502e-12
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | land use",2.2260713985148718e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | photochemical oxidant formation: terrestrial ecosystems",2.507763422236534e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | water use: aquatic ecosystems",2.1181768701287466e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | water use: terrestrial ecosystems",4.734335978588313e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | human health | climate change: human health",6.629457360880764e-06
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | human health | human toxicity: carcinogenic",4.455891148552957e-06
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | human health | human toxicity: non-carcinogenic",5.938562933806801e-06
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | human health | ionising radiation",-6.2602601682044186e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | human health | ozone depletion",2.166930732980909e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | human health | particulate matter formation",2.731041476876513e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | human health | photochemical oxidant formation: human health",1.753382197917546e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | human health | water use: human health",7.785352163112542e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | natural resources | energy resources: non-renewable, fossil",0.03382878010476527
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | natural resources | material resources: metals/minerals",0.0032483714648559436
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | total: ecosystem quality | ecosystem quality",7.393713290669232e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | total: human health | human health",4.512630188000905e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (H) | total: natural resources | natural resources",0.037077151569621214
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | acidification: terrestrial no LT",1.4157557830361841e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | climate change: freshwater ecosystems no LT",1.1122695784701306e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | climate change: terrestrial ecosystems no LT",4.080795809760845e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | ecotoxicity: freshwater no LT",7.133527053216949e-12
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | ecotoxicity: marine no LT",6.618116962657834e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | ecotoxicity: terrestrial no LT",1.3578856037324687e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | eutrophication: freshwater no LT",1.113745290382941e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | eutrophication: marine no LT",2.999035582957461e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | land use no LT",2.2260713985148718e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | photochemical oxidant formation: terrestrial ecosystems no LT",2.508496790861653e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | water use: aquatic ecosystems no LT",2.1181768701287466e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | climate change: human health no LT",6.228619001766114e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | human toxicity: carcinogenic no LT",6.095934560024004e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | human toxicity: non-carcinogenic no LT",6.031021321524206e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | ionising radiation no LT",-2.333852744298319e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | ozone depletion no LT",6.188718194468741e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | particulate matter formation no LT",1.7862339300176364e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | photochemical oxidant formation: human health no LT",1.7536396896214125e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | water use: human health no LT",1.0871437841735758e-06
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | natural resources no LT | energy resources: non-renewable, fossil no LT",0.03382878010476527
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | natural resources no LT | material resources: metals/minerals no LT",0.0005658027492794653
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | total: ecosystem quality no LT | ecosystem quality no LT",4.426551648134266e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | total: human health no LT | human health no LT",1.9656673016182738e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) no LT | total: natural resources no LT | natural resources no LT",0.03439458285404474
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | acidification: terrestrial",1.4157707874810843e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | climate change: freshwater ecosystems",1.1122701674937668e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | climate change: terrestrial ecosystems",4.0807979628497475e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | ecotoxicity: freshwater",4.409711372936124e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | ecotoxicity: marine",2.0971912258782988e-11
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | ecotoxicity: terrestrial",1.347181825287866e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | eutrophication: freshwater",9.405283245212155e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | eutrophication: marine",1.607544779553502e-12
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | land use",2.2260713985148718e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | photochemical oxidant formation: terrestrial ecosystems",2.5087324163180143e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | water use: aquatic ecosystems",2.1181768701287466e-13
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | human health | climate change: human health",6.228622292916238e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | human health | human toxicity: carcinogenic",2.2416783786681282e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | human health | human toxicity: non-carcinogenic",1.189957380370009e-07
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | human health | ionising radiation",-4.941778312003902e-09
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | human health | ozone depletion",6.188973489293209e-10
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | human health | particulate matter formation",1.7897061900376475e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | human health | photochemical oxidant formation: human health",1.75380573801427e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | human health | water use: human health",1.0871437841735758e-06
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | natural resources | energy resources: non-renewable, fossil",0.03382878010476527
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | natural resources | material resources: metals/minerals",0.0005658027492794653
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | total: ecosystem quality | ecosystem quality",5.301182721730733e-08
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | total: human health | human health",1.9761695613347203e-05
+c3c4,"ReCiPe 2016 v1.03, endpoint (I) | total: natural resources | natural resources",0.03439458285404474
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | climate change: freshwater ecosystems no LT",-2.6696224426308325e-13
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | acidification: terrestrial no LT",-3.291693733835129e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | climate change: freshwater ecosystems no LT",-2.145563344393048e-12
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | climate change: terrestrial ecosystems no LT",-7.864504210895801e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | ecotoxicity: freshwater no LT",-2.1739815785429277e-12
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | ecotoxicity: marine no LT",-2.7693133143306093e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | ecotoxicity: terrestrial no LT",-6.407989007779214e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | eutrophication: freshwater no LT",-6.416704148500652e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | eutrophication: marine no LT",-2.1143985192776477e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | land use no LT",-6.071130848522052e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | photochemical oxidant formation: terrestrial ecosystems no LT",-1.1793789900963514e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | water use: aquatic ecosystems no LT",-1.0130364560574462e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | water use: terrestrial ecosystems no LT",-2.2642372358842945e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | climate change: human health no LT",-3.932472203993805e-05
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | human toxicity: carcinogenic no LT",-1.0075276128026151e-05
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | human toxicity: non-carcinogenic no LT",-5.136599736213585e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | ionising radiation no LT",1.0229210091515084e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | ozone depletion no LT",-1.0246842736917396e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | particulate matter formation no LT",-3.7474524779380682e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | photochemical oxidant formation: human health no LT",-8.027327957538672e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | water use: human health no LT",-3.7234121832325176e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | natural resources no LT | energy resources: non-renewable, fossil no LT",-0.2555913455699086
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | natural resources no LT | material resources: metals/minerals no LT",-0.04434349603501925
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | total: ecosystem quality no LT | ecosystem quality no LT",-8.662513939481395e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | total: human health no LT | human health no LT",-5.833023377253037e-05
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) no LT | total: natural resources no LT | natural resources no LT",-0.2999348416049278
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | acidification: terrestrial",-3.291698837955334e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | climate change: freshwater ecosystems",-2.1455633654513674e-12
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | climate change: terrestrial ecosystems",-7.864504288005265e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | ecotoxicity: freshwater",-2.2343477308291874e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | ecotoxicity: marine",-1.68842479075011e-07
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | ecotoxicity: terrestrial",-6.402813732373832e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | eutrophication: freshwater",-7.847791668999508e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | eutrophication: marine",-9.893205444471613e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | land use",-6.071130848522052e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | photochemical oxidant formation: terrestrial ecosystems",-1.179387132974174e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | water use: aquatic ecosystems",-1.0130364560574462e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | water use: terrestrial ecosystems",-2.2642372358842945e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | human health | climate change: human health",-3.932472242548538e-05
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | human health | human toxicity: carcinogenic",-0.0022420207489068293
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | human health | human toxicity: non-carcinogenic",-0.00014128478816726893
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | human health | ionising radiation",3.677866664002468e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | human health | ozone depletion",-1.0246931980357847e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | human health | particulate matter formation",-3.748447890820194e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | human health | photochemical oxidant formation: human health",-8.027385341454567e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | human health | water use: human health",-3.7234121832325176e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | natural resources | energy resources: non-renewable, fossil",-0.2555913455699086
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | natural resources | material resources: metals/minerals",-0.04434349603501925
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | total: ecosystem quality | ecosystem quality",-2.5364022221170964e-07
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | total: human health | human health",-0.002426424506682662
+staged_total,"ReCiPe 2016 v1.03, endpoint (E) | total: natural resources | natural resources",-0.2999348416049278
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | acidification: terrestrial no LT",-3.291693733835129e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | climate change: terrestrial ecosystems no LT",-9.774839585845404e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | ecotoxicity: freshwater no LT",-1.6121737763933827e-12
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | ecotoxicity: marine no LT",-6.19989434427357e-13
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | ecotoxicity: terrestrial no LT",-5.958865956126709e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | eutrophication: freshwater no LT",-6.416704148500652e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | eutrophication: marine no LT",-2.1143985192776477e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | land use no LT",-6.071130848522052e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | photochemical oxidant formation: terrestrial ecosystems no LT",-1.1793789900963514e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | water use: aquatic ecosystems no LT",-1.0130364560574462e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | water use: terrestrial ecosystems no LT",-2.2642372358842945e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | climate change: human health no LT",-3.2388976411166392e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | human toxicity: carcinogenic no LT",-1.452998016381048e-07
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | human toxicity: non-carcinogenic no LT",-7.49346361898145e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | ionising radiation no LT",8.415506581813761e-12
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | ozone depletion no LT",-2.6642265852031803e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | particulate matter formation no LT",-3.7474524779380682e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | photochemical oxidant formation: human health no LT",-8.027327957538672e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | water use: human health no LT",-3.7234121832325176e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | natural resources no LT | energy resources: non-renewable, fossil no LT",-0.25143366527262423
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | natural resources no LT | material resources: metals/minerals no LT",-0.04434349603501925
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | total: ecosystem quality no LT | ecosystem quality no LT",-1.5205734856516618e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | total: human health no LT | human health no LT",-7.252103986661381e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) no LT | total: natural resources no LT | natural resources no LT",-0.2957771613076435
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | acidification: terrestrial",-3.291698837955334e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | climate change: freshwater ecosystems",-2.6696225318742684e-13
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | climate change: terrestrial ecosystems",-9.774839912288501e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | ecotoxicity: freshwater",-2.2287299887477864e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | ecotoxicity: marine",-4.8647701763020683e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | ecotoxicity: terrestrial",-5.954043798675318e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | eutrophication: freshwater",-7.847791668999508e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | eutrophication: marine",-9.893205444471613e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | land use",-6.071130848522052e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | photochemical oxidant formation: terrestrial ecosystems",-1.179387132974174e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | water use: aquatic ecosystems",-1.0130364560574462e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | water use: terrestrial ecosystems",-2.2642372358842945e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | human health | climate change: human health",-3.2388977495395924e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | human health | human toxicity: carcinogenic",-3.0462326256960088e-05
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | human health | human toxicity: non-carcinogenic",-1.6198733625099107e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | human health | ionising radiation",1.692816812078585e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | human health | ozone depletion",-2.664249444048856e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | human health | particulate matter formation",-3.748447890820194e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | human health | photochemical oxidant formation: human health",-8.027385341454567e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | human health | water use: human health",-3.7234121832325176e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | natural resources | energy resources: non-renewable, fossil",-0.25143366527262423
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | natural resources | material resources: metals/minerals",-0.04434349603501925
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | total: ecosystem quality | ecosystem quality",-1.619567865661927e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | total: human health | human health",-3.911490388433843e-05
+staged_total,"ReCiPe 2016 v1.03, endpoint (H) | total: natural resources | natural resources",-0.2957771613076435
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | acidification: terrestrial no LT",-3.2916937875869243e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | climate change: freshwater ecosystems no LT",-5.821724531544639e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | climate change: terrestrial ecosystems no LT",-2.1367087378860472e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | ecotoxicity: freshwater no LT",-1.4428649900732343e-12
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | ecotoxicity: marine no LT",-1.440032941847582e-13
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | ecotoxicity: terrestrial no LT",-2.186857255112753e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | eutrophication: freshwater no LT",-6.416704148500652e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | eutrophication: marine no LT",-2.1143985192776477e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | land use no LT",-6.071130848522052e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | photochemical oxidant formation: terrestrial ecosystems no LT",-1.1799130896651056e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | water use: aquatic ecosystems no LT",-1.0130364560574462e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | climate change: human health no LT",-3.261414710692934e-07
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | human toxicity: carcinogenic no LT",-1.6289168295684908e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | human toxicity: non-carcinogenic no LT",-9.015148623006152e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | ionising radiation no LT",5.110026779960818e-12
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | ozone depletion no LT",-7.786363970587227e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | particulate matter formation no LT",-9.759072339074676e-07
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | photochemical oxidant formation: human health no LT",-8.029662433931082e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | water use: human health no LT",-5.199359420241147e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | natural resources no LT | energy resources: non-renewable, fossil no LT",-0.25143366527262423
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | natural resources no LT | material resources: metals/minerals no LT",-0.02036973466158694
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | total: ecosystem quality no LT | ecosystem quality no LT",-7.303140630789096e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | total: human health no LT | human health no LT",-1.3727887808494988e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) no LT | total: natural resources no LT | natural resources no LT",-0.27180339993421115
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | acidification: terrestrial",-3.29169889170713e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | climate change: freshwater ecosystems",-5.821724681457962e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | climate change: terrestrial ecosystems",-2.1367087926846477e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | ecotoxicity: freshwater",-2.1631852025289476e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | ecotoxicity: marine",-1.3789756444828753e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | ecotoxicity: terrestrial",-2.1847565583536247e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | eutrophication: freshwater",-7.847791668999508e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | eutrophication: marine",-9.893205444471613e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | land use",-6.071130848522052e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | photochemical oxidant formation: terrestrial ecosystems",-1.179921232542928e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | water use: aquatic ecosystems",-1.0130364560574462e-14
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | human health | climate change: human health",-3.261414794456508e-07
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | human health | human toxicity: carcinogenic",-4.895129365777945e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | human health | human toxicity: non-carcinogenic",-5.7671030467157276e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | human health | ionising radiation",1.340645326084552e-10
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | human health | ozone depletion",-7.786428946070418e-11
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | human health | particulate matter formation",-9.768982754233629e-07
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | human health | photochemical oxidant formation: human health",-8.029719817846976e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | human health | water use: human health",-5.199359420241147e-08
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | natural resources | energy resources: non-renewable, fossil",-0.25143366527262423
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | natural resources | material resources: metals/minerals",-0.02036973466158694
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | total: ecosystem quality | ecosystem quality",-8.252344242181054e-09
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | total: human health | human health",-1.4255730287057186e-06
+staged_total,"ReCiPe 2016 v1.03, endpoint (I) | total: natural resources | natural resources",-0.27180339993421115
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | climate change: freshwater ecosystems no LT",2.794813078308153e-13
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | acidification: terrestrial no LT",1.0865862458162277e-08
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | climate change: freshwater ecosystems no LT",2.447891942197235e-12
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | climate change: terrestrial ecosystems no LT",8.973287468894321e-08
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | ecotoxicity: freshwater no LT",8.231009058626364e-12
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | ecotoxicity: marine no LT",1.3357733308845782e-08
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | ecotoxicity: terrestrial no LT",2.6684527662839546e-10
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | eutrophication: freshwater no LT",1.049578248897934e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | eutrophication: marine no LT",2.787595731029695e-13
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | land use no LT",2.1653600900296495e-08
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | photochemical oxidant formation: terrestrial ecosystems no LT",1.3281488066838214e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | water use: aquatic ecosystems no LT",2.0168732245230027e-13
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | ecosystem quality no LT | water use: terrestrial ecosystems no LT",4.507912254999877e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | climate change: human health no LT",4.486594574492689e-05
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | human toxicity: carcinogenic no LT",4.944176082264472e-06
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | human toxicity: non-carcinogenic no LT",5.1248121819051145e-05
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | ionising radiation no LT",-3.951708332229359e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | ozone depletion no LT",7.409293084601471e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | particulate matter formation no LT",2.3528112344839407e-05
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | photochemical oxidant formation: human health no LT",9.504833537708217e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | human health no LT | water use: human health no LT",7.413010944789285e-07
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | natural resources no LT | energy resources: non-renewable, fossil no LT",-0.05810245654002372
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | natural resources no LT | material resources: metals/minerals no LT",-0.04109512457016329
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | total: ecosystem quality no LT | ecosystem quality no LT",1.3826580340922102e-07
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | total: human health no LT | human health no LT",0.00012534062083073037
+joint,"ReCiPe 2016 v1.03, endpoint (E) no LT | total: natural resources no LT | natural resources no LT",-0.09919758111018703
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | acidification: terrestrial",1.0866007398491076e-08
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | climate change: freshwater ecosystems",2.4478927485402253e-12
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | climate change: terrestrial ecosystems",8.973290421488715e-08
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | ecotoxicity: freshwater",2.440629792303846e-10
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | ecotoxicity: marine",4.0577644023651137e-07
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | ecotoxicity: terrestrial",2.642622921372905e-10
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | eutrophication: freshwater",8.620504078312205e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | eutrophication: marine",1.5086127251087867e-12
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | land use",2.1653600900296495e-08
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | photochemical oxidant formation: terrestrial ecosystems",1.32837628926236e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | water use: aquatic ecosystems",2.0168732245230027e-13
+joint,"ReCiPe 2016 v1.03, endpoint (E) | ecosystem quality | water use: terrestrial ecosystems",4.507912254999877e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) | human health | climate change: human health",4.486596050789896e-05
+joint,"ReCiPe 2016 v1.03, endpoint (E) | human health | human toxicity: carcinogenic",-0.0019281427825506641
+joint,"ReCiPe 2016 v1.03, endpoint (E) | human health | human toxicity: non-carcinogenic",0.0009498723202654198
+joint,"ReCiPe 2016 v1.03, endpoint (E) | human health | ionising radiation",-1.3379963943308952e-08
+joint,"ReCiPe 2016 v1.03, endpoint (E) | human health | ozone depletion",7.409634806183326e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) | human health | particulate matter formation",2.356196687794497e-05
+joint,"ReCiPe 2016 v1.03, endpoint (E) | human health | photochemical oxidant formation: human health",9.506436637720893e-09
+joint,"ReCiPe 2016 v1.03, endpoint (E) | human health | water use: human health",7.413010944789285e-07
+joint,"ReCiPe 2016 v1.03, endpoint (E) | natural resources | energy resources: non-renewable, fossil",-0.05810245654002372
+joint,"ReCiPe 2016 v1.03, endpoint (E) | natural resources | material resources: metals/minerals",-0.04109512457016329
+joint,"ReCiPe 2016 v1.03, endpoint (E) | total: ecosystem quality | ecosystem quality",5.384902894438651e-07
+joint,"ReCiPe 2016 v1.03, endpoint (E) | total: human health | human health",-0.000909097590078243
+joint,"ReCiPe 2016 v1.03, endpoint (E) | total: natural resources | natural resources",-0.09919758111018703
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | acidification: terrestrial no LT",1.0865862458162277e-08
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | climate change: terrestrial ecosystems no LT",1.0227747042553163e-08
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | ecotoxicity: freshwater no LT",6.938328600292895e-12
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | ecotoxicity: marine no LT",2.287926671767776e-12
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | ecotoxicity: terrestrial no LT",2.4842573250928154e-10
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | eutrophication: freshwater no LT",1.049578248897934e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | eutrophication: marine no LT",2.787595731029695e-13
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | land use no LT",2.1653600900296495e-08
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | photochemical oxidant formation: terrestrial ecosystems no LT",1.3281488066838214e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | water use: aquatic ecosystems no LT",2.0168732245230027e-13
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | ecosystem quality no LT | water use: terrestrial ecosystems no LT",4.507912254999877e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | climate change: human health no LT",3.3905554597236614e-06
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | human toxicity: carcinogenic no LT",1.528142741108891e-07
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | human toxicity: non-carcinogenic no LT",1.540366716841197e-06
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | ionising radiation no LT",-3.7829125824024224e-10
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | ozone depletion no LT",1.9004182598919616e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | particulate matter formation no LT",2.3528112344839407e-05
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | photochemical oxidant formation: human health no LT",9.504833537708217e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | human health no LT | water use: human health no LT",7.413010944789285e-07
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | natural resources no LT | energy resources: non-renewable, fossil no LT",-0.2176048851678589
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | natural resources no LT | material resources: metals/minerals no LT",-0.04109512457016329
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | total: ecosystem quality no LT | ecosystem quality no LT",4.989126120292411e-08
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | total: human health no LT | human health no LT",2.9364176816849816e-05
+joint,"ReCiPe 2016 v1.03, endpoint (H) no LT | total: natural resources no LT | natural resources no LT",-0.2587000097380222
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | acidification: terrestrial",1.0866007398491076e-08
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | climate change: freshwater ecosystems",2.7948164955238107e-13
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | climate change: terrestrial ecosystems",1.0227759542368342e-08
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | ecotoxicity: freshwater",2.4277193224473393e-10
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | ecotoxicity: marine",4.651472100546192e-11
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | ecotoxicity: terrestrial",2.4601778453920736e-10
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | eutrophication: freshwater",8.620504078312205e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | eutrophication: marine",1.5086127251087867e-12
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | land use",2.1653600900296495e-08
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | photochemical oxidant formation: terrestrial ecosystems",1.32837628926236e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | water use: aquatic ecosystems",2.0168732245230027e-13
+joint,"ReCiPe 2016 v1.03, endpoint (H) | ecosystem quality | water use: terrestrial ecosystems",4.507912254999877e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) | human health | climate change: human health",3.390559611341184e-06
+joint,"ReCiPe 2016 v1.03, endpoint (H) | human health | human toxicity: carcinogenic",-2.600643510840712e-05
+joint,"ReCiPe 2016 v1.03, endpoint (H) | human health | human toxicity: non-carcinogenic",4.31868957129689e-06
+joint,"ReCiPe 2016 v1.03, endpoint (H) | human health | ionising radiation",-6.090978486996562e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) | human health | ozone depletion",1.9005057885760224e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) | human health | particulate matter formation",2.356196687794497e-05
+joint,"ReCiPe 2016 v1.03, endpoint (H) | human health | photochemical oxidant formation: human health",9.506436637720893e-09
+joint,"ReCiPe 2016 v1.03, endpoint (H) | human health | water use: human health",7.413010944789285e-07
+joint,"ReCiPe 2016 v1.03, endpoint (H) | natural resources | energy resources: non-renewable, fossil",-0.2176048851678589
+joint,"ReCiPe 2016 v1.03, endpoint (H) | natural resources | material resources: metals/minerals",-0.04109512457016329
+joint,"ReCiPe 2016 v1.03, endpoint (H) | total: ecosystem quality | ecosystem quality",5.774145425007305e-08
+joint,"ReCiPe 2016 v1.03, endpoint (H) | total: human health | human health",6.01139799567068e-06
+joint,"ReCiPe 2016 v1.03, endpoint (H) | total: natural resources | natural resources",-0.2587000097380222
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | acidification: terrestrial no LT",1.0865864042774907e-08
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | climate change: freshwater ecosystems no LT",5.300971253156657e-14
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | climate change: terrestrial ecosystems no LT",1.9440870718747987e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | ecotoxicity: freshwater no LT",5.690662063143712e-12
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | ecotoxicity: marine no LT",5.178084020810253e-13
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | ecotoxicity: terrestrial no LT",1.1391998782211936e-10
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | eutrophication: freshwater no LT",1.049578248897934e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | eutrophication: marine no LT",2.787595731029695e-13
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | land use no LT",2.1653600900296495e-08
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | photochemical oxidant formation: terrestrial ecosystems no LT",1.3285837011965475e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | ecosystem quality no LT | water use: aquatic ecosystems no LT",2.0168732245230027e-13
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | climate change: human health no LT",2.9672042910731774e-07
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | human toxicity: carcinogenic no LT",4.467017730455512e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | human toxicity: non-carcinogenic no LT",5.12950645922359e-08
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | ionising radiation no LT",-2.282752476498712e-10
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | ozone depletion no LT",5.41008179741003e-10
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | particulate matter formation no LT",1.6886432066268936e-05
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | photochemical oxidant formation: human health no LT",9.506734462283044e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | human health no LT | water use: human health no LT",1.0351501899711623e-06
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | natural resources no LT | energy resources: non-renewable, fossil no LT",-0.2176048851678589
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | natural resources no LT | material resources: metals/minerals no LT",-0.019803931912307473
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | total: ecosystem quality no LT | ecosystem quality no LT",3.696237585055354e-08
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | total: human health no LT | human health no LT",1.8283884235333274e-05
+joint,"ReCiPe 2016 v1.03, endpoint (I) no LT | total: natural resources no LT | natural resources no LT",-0.2374088170801664
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | acidification: terrestrial",1.0866008983103703e-08
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | climate change: freshwater ecosystems",5.3009769934796964e-14
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | climate change: terrestrial ecosystems",1.9440891701651e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | ecotoxicity: freshwater",2.2465261704071724e-10
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | ecotoxicity: marine",7.182155813954231e-12
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | ecotoxicity: terrestrial",1.1287061694525038e-10
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | eutrophication: freshwater",8.620504078312205e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | eutrophication: marine",1.5086127251087867e-12
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | land use",2.1653600900296495e-08
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | photochemical oxidant formation: terrestrial ecosystems",1.328811183775086e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) | ecosystem quality | water use: aquatic ecosystems",2.0168732245230027e-13
+joint,"ReCiPe 2016 v1.03, endpoint (I) | human health | climate change: human health",2.967207498459727e-07
+joint,"ReCiPe 2016 v1.03, endpoint (I) | human health | human toxicity: carcinogenic",1.7521654420903342e-08
+joint,"ReCiPe 2016 v1.03, endpoint (I) | human health | human toxicity: non-carcinogenic",6.132470756984365e-08
+joint,"ReCiPe 2016 v1.03, endpoint (I) | human health | ionising radiation",-4.807713779395449e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) | human health | ozone depletion",5.410330594686178e-10
+joint,"ReCiPe 2016 v1.03, endpoint (I) | human health | particulate matter formation",1.692016362495315e-05
+joint,"ReCiPe 2016 v1.03, endpoint (I) | human health | photochemical oxidant formation: human health",9.50833756229572e-09
+joint,"ReCiPe 2016 v1.03, endpoint (I) | human health | water use: human health",1.0351501899711623e-06
+joint,"ReCiPe 2016 v1.03, endpoint (I) | natural resources | energy resources: non-renewable, fossil",-0.2176048851678589
+joint,"ReCiPe 2016 v1.03, endpoint (I) | natural resources | material resources: metals/minerals",-0.019803931912307473
+joint,"ReCiPe 2016 v1.03, endpoint (I) | total: ecosystem quality | ecosystem quality",4.475948297512626e-08
+joint,"ReCiPe 2016 v1.03, endpoint (I) | total: human health | human health",1.8336122584641523e-05
+joint,"ReCiPe 2016 v1.03, endpoint (I) | total: natural resources | natural resources",-0.2374088170801664

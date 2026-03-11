@@ -1,0 +1,5 @@
+number_of_scenarios_with_at_least_one_rank_inversion,number_of_indicators,indicators
+4 of 4 scenarios,11,ionising radiation potential (IRP) | freshwater ecotoxicity potential (FETP) | marine ecotoxicity potential (METP) | terrestrial ecotoxicity potential (TETP) | freshwater eutrophication potential (FEP) | ozone depletion potential (ODPinfinite) | agricultural land occupation (LOP) | human toxicity potential (HTPnc) | terrestrial acidification potential (TAP) | particulate matter formation potential (PMFP) | photochemical oxidant formation potential: humans (HOFP)
+3 of 4 scenarios,3,marine eutrophication potential (MEP) | photochemical oxidant formation potential: ecosystems (EOFP) | water consumption potential (WCP)
+1 of 4 scenarios,2,human toxicity potential (HTPc) | surplus ore potential (SOP)
+0 of 4 scenarios,1,fossil fuel potential (FFP)

@@ -1,0 +1,8 @@
+supplier,annualized_growth_g_i_percent_per_year,positive_annual_delta_v_kt_per_year,included_in_marginal_set,marginal_mix_percent
+Rio Tinto - Alma Smelter,0.82,3.8,Yes,15.45
+Aluminerie Alouette - Alouette Smelter,1.71,10.0,Yes,40.65
+Alcoa - Deschambault Smelter,2.08,5.4,Yes,21.95
+Rio Tinto - Grande Baie Smelter,-0.34,0.0,No,0.0
+Alcoa - Becancour Smelter,1.23,5.4,Yes,21.95
+Rio Tinto - Kitimat Smelter,-2.71,0.0,No,0.0
+Total,,24.6,,100.0

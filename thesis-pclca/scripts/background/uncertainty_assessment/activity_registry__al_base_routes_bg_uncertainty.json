@@ -1,0 +1,422 @@
+{
+  "AL_RW_landfill_C3C4_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_landfill_C3C4_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper C3\u2013C4: landfill [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:36"
+  },
+  "AL_RW_landfill_C3C4_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_landfill_C3C4_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper C3\u2013C4: landfill [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:32"
+  },
+  "AL_RW_landfill_C3C4_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_landfill_C3C4_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper C3\u2013C4: landfill [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:28"
+  },
+  "AL_RW_landfill_NET_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_landfill_NET_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper NET: landfill [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:38"
+  },
+  "AL_RW_landfill_NET_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_landfill_NET_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper NET: landfill [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:33"
+  },
+  "AL_RW_landfill_NET_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_landfill_NET_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper NET: landfill [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:29"
+  },
+  "AL_RW_recycling_postcons_NET_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_recycling_postcons_NET_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper NET: recycling post-consumer [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:38"
+  },
+  "AL_RW_recycling_postcons_NET_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_recycling_postcons_NET_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper NET: recycling post-consumer [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:34"
+  },
+  "AL_RW_recycling_postcons_NET_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_recycling_postcons_NET_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper NET: recycling post-consumer [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:30"
+  },
+  "AL_RW_recycling_postcons_refiner_C3C4_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_recycling_postcons_refiner_C3C4_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper C3\u2013C4: recycling at refiner (burdens-only) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:37"
+  },
+  "AL_RW_recycling_postcons_refiner_C3C4_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_recycling_postcons_refiner_C3C4_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper C3\u2013C4: recycling at refiner (burdens-only) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:32"
+  },
+  "AL_RW_recycling_postcons_refiner_C3C4_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_recycling_postcons_refiner_C3C4_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper C3\u2013C4: recycling at refiner (burdens-only) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:29"
+  },
+  "AL_RW_reuse_C3_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_reuse_C3_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper C3: reuse prep (degrease scaled) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:37"
+  },
+  "AL_RW_reuse_C3_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_reuse_C3_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper C3: reuse prep (degrease scaled) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:32"
+  },
+  "AL_RW_reuse_C3_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_reuse_C3_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper C3: reuse prep (degrease scaled) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:28"
+  },
+  "AL_RW_reuse_NET_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_reuse_NET_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper NET: reuse (C3 + Stage D) [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:38"
+  },
+  "AL_RW_reuse_NET_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_reuse_NET_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper NET: reuse (C3 + Stage D) [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:33"
+  },
+  "AL_RW_reuse_NET_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_RW_reuse_NET_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Route wrapper NET: reuse (C3 + Stage D) [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:30"
+  },
+  "AL_SD_credit_recycling_postcons_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_SD_credit_recycling_postcons_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Stage D credit (recycling): avoid ingot \u00d7 recovered_yield [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:36"
+  },
+  "AL_SD_credit_recycling_postcons_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_SD_credit_recycling_postcons_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Stage D credit (recycling): avoid ingot \u00d7 recovered_yield [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:31"
+  },
+  "AL_SD_credit_recycling_postcons_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_SD_credit_recycling_postcons_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Stage D credit (recycling): avoid ingot \u00d7 recovered_yield [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:27"
+  },
+  "AL_SD_credit_reuse_ingot_plus_extrusion_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_SD_credit_reuse_ingot_plus_extrusion_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Stage D credit (reuse): avoid ingot + avoid extrusion [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:36"
+  },
+  "AL_SD_credit_reuse_ingot_plus_extrusion_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_SD_credit_reuse_ingot_plus_extrusion_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Stage D credit (reuse): avoid ingot + avoid extrusion [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:32"
+  },
+  "AL_SD_credit_reuse_ingot_plus_extrusion_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_SD_credit_reuse_ingot_plus_extrusion_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Stage D credit (reuse): avoid ingot + avoid extrusion [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:28"
+  },
+  "AL_UP_avoided_impact_extrusion_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_avoided_impact_extrusion_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Avoided production proxy: impact extrusion [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:24"
+  },
+  "AL_UP_avoided_impact_extrusion_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_avoided_impact_extrusion_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Avoided production proxy: impact extrusion [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:22"
+  },
+  "AL_UP_avoided_impact_extrusion_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_avoided_impact_extrusion_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Avoided production proxy: impact extrusion [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:15"
+  },
+  "AL_UP_avoided_primary_ingot_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_avoided_primary_ingot_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Avoided production proxy: primary aluminium ingot [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:23"
+  },
+  "AL_UP_avoided_primary_ingot_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_avoided_primary_ingot_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Avoided production proxy: primary aluminium ingot [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:21"
+  },
+  "AL_UP_avoided_primary_ingot_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_avoided_primary_ingot_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Avoided production proxy: primary aluminium ingot [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:14"
+  },
+  "AL_UP_degreasing_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_degreasing_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: degreasing [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:26"
+  },
+  "AL_UP_degreasing_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_degreasing_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: degreasing [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:23"
+  },
+  "AL_UP_degreasing_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_degreasing_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: degreasing [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:16"
+  },
+  "AL_UP_landfill_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_landfill_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: landfill treatment [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:30"
+  },
+  "AL_UP_landfill_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_landfill_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: landfill treatment [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:27"
+  },
+  "AL_UP_landfill_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_landfill_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: landfill treatment [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:21"
+  },
+  "AL_UP_refiner_postcons_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_refiner_postcons_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: refiner treatment (post-consumer) [BASE] [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:33"
+  },
+  "AL_UP_refiner_postcons_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_refiner_postcons_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: refiner treatment (post-consumer) [BASE] [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:29"
+  },
+  "AL_UP_refiner_postcons_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_refiner_postcons_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: refiner treatment (post-consumer) [BASE] [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:24"
+  },
+  "AL_UP_refiner_postcons_NO_CREDIT_CA__SSP1VLLO_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_refiner_postcons_NO_CREDIT_CA__SSP1VLLO_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: refiner treatment [NO_CREDIT] [CA; SSP1VLLO_2050]",
+    "scenario": "SSP1VLLO_2050",
+    "updated_at": "2026-02-28T22:38:35"
+  },
+  "AL_UP_refiner_postcons_NO_CREDIT_CA__SSP2M_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_refiner_postcons_NO_CREDIT_CA__SSP2M_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: refiner treatment [NO_CREDIT] [CA; SSP2M_2050]",
+    "scenario": "SSP2M_2050",
+    "updated_at": "2026-02-28T22:39:31"
+  },
+  "AL_UP_refiner_postcons_NO_CREDIT_CA__SSP5H_2050": {
+    "key": [
+      "mtcw_foreground_prospective__bgonly",
+      "AL_UP_refiner_postcons_NO_CREDIT_CA__SSP5H_2050"
+    ],
+    "location": "CA",
+    "name": "Unit process: refiner treatment [NO_CREDIT] [CA; SSP5H_2050]",
+    "scenario": "SSP5H_2050",
+    "updated_at": "2026-02-28T22:40:27"
+  }
+}

@@ -1,0 +1,50 @@
+Appendix F Validation Log
+================================================================================
+Timestamp: 2026-03-11T15:35:48
+Repo root: C:\brightway_workspace\repo\thesis-pclca
+Source dir: C:\brightway_workspace\repo_support\appendix_f_sources
+
+Discovered uncertainty runs
+--------------------------------------------------------------------------------
+contemp | al_base_routes | contemp | summary=C:\brightway_workspace\repo_support\appendix_f_sources\0_contemp\al_base_routes\mc_summary_primary_contemp_al_base_routes_uncertainty_rewire_embedded_20260303-140103.csv | convergence=C:\brightway_workspace\repo_support\appendix_f_sources\0_contemp\al_base_routes\convergence_contemp_al_base_routes_uncertainty_rewire_embedded_20260303-140103.csv | runmeta=C:\brightway_workspace\repo_support\appendix_f_sources\0_contemp\al_base_routes\mc_runmeta_contemp_al_base_routes_uncertainty_rewire_embedded_20260303-140103.csv
+contemp | hydrolysis | contemp | summary=C:\brightway_workspace\repo_support\appendix_f_sources\0_contemp\hydrolysis\mc_summary_primary_contemp_hydrolysis_uncertainty_20260303-090851.csv | convergence=C:\brightway_workspace\repo_support\appendix_f_sources\0_contemp\hydrolysis\convergence_contemp_hydrolysis_uncertainty_20260303-090851.csv | runmeta=C:\brightway_workspace\repo_support\appendix_f_sources\0_contemp\hydrolysis\mc_runmeta_contemp_hydrolysis_uncertainty_20260303-090851.csv
+contemp | msfsc | contemp | summary=C:\brightway_workspace\repo_support\appendix_f_sources\0_contemp\msfsc\mc_summary_primary_contemp_msfsc_uncertainty_20260302-191634.csv | convergence=C:\brightway_workspace\repo_support\appendix_f_sources\0_contemp\msfsc\convergence_contemp_msfsc_uncertainty_20260302-191634.csv | runmeta=C:\brightway_workspace\repo_support\appendix_f_sources\0_contemp\msfsc\mc_runmeta_contemp_msfsc_uncertainty_20260302-191634.csv
+prospect | hydrolysis | SSP1VLLO_2050 | summary=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\hydrolysis\fgonly\mc_summary_primary_prospect_hydrolysis_fgonly_fgonly_20260303-113346.csv | convergence=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\hydrolysis\fgonly\convergence_prospect_hydrolysis_fgonly_fgonly_SSP1VLLO_2050_20260302-162018.csv | runmeta=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\hydrolysis\fgonly\mc_runmeta_prospect_hydrolysis_fgonly_fgonly_20260303-113346.csv
+prospect | hydrolysis | SSP2M_2050 | summary=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\hydrolysis\fgonly\mc_summary_primary_prospect_hydrolysis_fgonly_fgonly_20260303-113346.csv | convergence=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\hydrolysis\fgonly\convergence_prospect_hydrolysis_fgonly_fgonly_SSP2M_2050_20260303-085942.csv | runmeta=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\hydrolysis\fgonly\mc_runmeta_prospect_hydrolysis_fgonly_fgonly_20260303-113346.csv
+prospect | hydrolysis | SSP5H_2050 | summary=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\hydrolysis\fgonly\mc_summary_primary_prospect_hydrolysis_fgonly_fgonly_20260303-113346.csv | convergence=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\hydrolysis\fgonly\convergence_prospect_hydrolysis_fgonly_fgonly_SSP5H_2050_20260303-113346.csv | runmeta=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\hydrolysis\fgonly\mc_runmeta_prospect_hydrolysis_fgonly_fgonly_20260303-113346.csv
+prospect | msfsc | SSP1VLLO_2050 | summary=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\msfsc\fgonly\mc_summary_primary_prospect_msfsc_fgonly_fgonly_stageDinert_20260304-003429.csv | convergence=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\msfsc\fgonly\convergence_prospect_msfsc_fgonly_fgonly_stageDinert_SSP1VLLO_2050_20260303-152034.csv | runmeta=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\msfsc\fgonly\mc_runmeta_prospect_msfsc_fgonly_fgonly_stageDinert_20260304-003429.csv
+prospect | msfsc | SSP2M_2050 | summary=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\msfsc\fgonly\mc_summary_primary_prospect_msfsc_fgonly_fgonly_stageDinert_20260304-003429.csv | convergence=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\msfsc\fgonly\convergence_prospect_msfsc_fgonly_fgonly_stageDinert_SSP2M_2050_20260303-231039.csv | runmeta=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\msfsc\fgonly\mc_runmeta_prospect_msfsc_fgonly_fgonly_stageDinert_20260304-003429.csv
+prospect | msfsc | SSP5H_2050 | summary=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\msfsc\fgonly\mc_summary_primary_prospect_msfsc_fgonly_fgonly_stageDinert_20260304-003429.csv | convergence=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\msfsc\fgonly\convergence_prospect_msfsc_fgonly_fgonly_stageDinert_SSP5H_2050_20260304-003429.csv | runmeta=C:\brightway_workspace\repo_support\appendix_f_sources\1_prospect\msfsc\fgonly\mc_runmeta_prospect_msfsc_fgonly_fgonly_stageDinert_20260304-003429.csv
+
+Selected sensitivity runs
+--------------------------------------------------------------------------------
+contemp | hydrolysis_net | contemp | run_dir=C:\brightway_workspace\repo_support\appendix_f_sources\lever_sensitivity\hydrolysis_net\20260301-151126
+contemp | msfsc_net_per_kg_prepared | contemp | run_dir=C:\brightway_workspace\repo_support\appendix_f_sources\lever_sensitivity\msfsc_net_per_kg_prepared\20260301-154242
+prospect | hydrolysis_net | SSP1VLLO_2050 | run_dir=C:\brightway_workspace\repo_support\appendix_f_sources\lever_sensitivity_prospect\hydrolysis_net\SSP1VLLO_2050\20260301-170229
+prospect | hydrolysis_net | SSP2M_2050 | run_dir=C:\brightway_workspace\repo_support\appendix_f_sources\lever_sensitivity_prospect\hydrolysis_net\SSP2M_2050\20260301-180226
+prospect | hydrolysis_net | SSP5H_2050 | run_dir=C:\brightway_workspace\repo_support\appendix_f_sources\lever_sensitivity_prospect\hydrolysis_net\SSP5H_2050\20260301-192528
+prospect | msfsc_route_net | SSP1VLLO_2050 | run_dir=C:\brightway_workspace\repo_support\appendix_f_sources\lever_sensitivity_prospect\msfsc_route_net\SSP1VLLO_2050\20260302-131241
+prospect | msfsc_route_net | SSP2M_2050 | run_dir=C:\brightway_workspace\repo_support\appendix_f_sources\lever_sensitivity_prospect\msfsc_route_net\SSP2M_2050\20260302-141157
+prospect | msfsc_route_net | SSP5H_2050 | run_dir=C:\brightway_workspace\repo_support\appendix_f_sources\lever_sensitivity_prospect\msfsc_route_net\SSP5H_2050\20260302-151202
+
+Output row counts
+--------------------------------------------------------------------------------
+f1: 5
+f2: 3
+f3: 3
+f4: 8
+f5: 2
+f6: 6
+run_manifest: 9
+driver_manifest: 8
+figure_manifest: 27
+uncertainty_sources: 9
+sensitivity_sources: 8
+
+Warnings
+--------------------------------------------------------------------------------
+None
+
+Interpretation note
+--------------------------------------------------------------------------------
+This log confirms source discovery and output creation only. It does not guarantee that every thesis-facing label is semantically perfect. High-stakes rows should still be spot-checked against the final appendix draft and the source run files.

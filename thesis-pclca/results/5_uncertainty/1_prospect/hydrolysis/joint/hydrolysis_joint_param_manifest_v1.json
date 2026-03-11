@@ -1,0 +1,32 @@
+{
+  "version": "hydrolysis_joint_param_spec_v1",
+  "timestamp": "20260225-222627",
+  "central_2050": {
+    "f_Al": 1.0,
+    "X_Al": 0.95,
+    "L": 150.0,
+    "C_NaOH": 0.24,
+    "f_makeup": 0.2,
+    "Y_prep": 0.85,
+    "R_PSA": 0.95,
+    "E_aux": 0.15,
+    "E_therm": 0.05,
+    "prep_elec_kwh_per_kg_prepared": 0.0504,
+    "liquor_density_kg_per_L": 1.0
+  },
+  "step6_levers": {
+    "f_Al": "PERT",
+    "X_Al": "PERT",
+    "L": "LognormalTrunc",
+    "f_makeup": "PERT",
+    "Y_prep": "PERT",
+    "R_PSA": "PERT",
+    "E_aux": "LognormalTrunc",
+    "E_therm": "LognormalTrunc",
+    "C_NaOH": "OPTIONAL (updates electrolyte composition only)"
+  },
+  "notes": [
+    "Background uncertainty is handled in the runner via use_distributions=True on cloned proxies.",
+    "Foreground dependencies are enforced in the runner by overwriting multiple coefficients consistently."
+  ]
+}

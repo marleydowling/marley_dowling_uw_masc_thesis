@@ -1,0 +1,9 @@
+parameter,meaning,central_value,distribution,bounds_quantiles_used_in_sampling,rationale
+f_Al,Metallic Al fraction in prepared scrap,1.0,Beta-PERT (λ=4),"min 0.85, mode 1.00, max 1.00",Captures prepared-scrap heterogeneity/contamination while keeping the central case as effectively metallic.
+X_Al,Reacted (conversion) fraction,0.95,Beta-PERT (λ=4),"min 0.85, mode 0.95, max 0.99",Represents incomplete conversion due to passivation/contact/solids-handling non-idealities.
+f_makeup,NaOH make-up fraction (recirculation proxy),0.2,Beta-PERT (λ=4),"min 0.05, mode 0.20, max 0.40",Encodes electrolyte retention/bleed as a first-order operational lever without introducing speculative regeneration.
+Y_prep,Scrap preparation yield into hydrolysis feed,0.85,Beta-PERT (λ=4),"min 0.70, mode 0.85, max 0.95","Captures handling rejects, sorting losses, and fines/dust removal prior to the reactor."
+R_PSA,PSA recovery (crude -> usable H2),0.95,Beta-PERT (λ=4),"min 0.90, mode 0.95, max 0.99",Aligns Stage D to usable hydrogen rather than crude gas.
+L,Working-solution intensity (L/kg Al metal basis),150,Lognormal,"GM 150, p5 80, p95 220",Represents reactor solids loading/dilution and liquor handling intensity.
+E_aux,Auxiliary electricity (kWh/kg prepared scrap),0.15,Lognormal,"GM 0.15, p5 0.08, p95 0.25",Aggregates mixing/pumping/solids handling/controls required at scale.
+E_therm,Thermal-management electricity (kWh/kg prepared scrap),0.05,Lognormal,"GM 0.05, p5 0.02, p95 0.12",Represents cooling/heat-management auxiliaries rather than assuming free exotherm control.

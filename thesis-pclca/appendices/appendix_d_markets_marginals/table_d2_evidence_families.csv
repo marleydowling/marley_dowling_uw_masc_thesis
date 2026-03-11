@@ -1,0 +1,8 @@
+market,primary_evidence_family,secondary_support,final_treatment
+Contemporary primary aluminium billet,Canadian facility-resolved production + trade-screened import evidence,Industry and technology context,Foreground-constructed
+Contemporary extrusion / reuse proxy,Canadian extrusion production + screened imports,Sector reviews and reuse practice literature,Foreground-constructed proxy
+Contemporary hydrogen,Public project and production disclosures aggregated to technology-region bins,"Hydrogen strategies, regulatory and industry summaries",Foreground-constructed heuristic
+Contemporary electricity,Forward-looking Canadian generation projections (2025-2030),Technology-level planning evidence,Foreground-constructed
+Prospective electricity and fuels,Scenario database commodity mixes,Scenario documentation,Inherited directly
+Prospective hydrogen,Scenario database where represented,Scenario documentation,Inherited directly
+Prospective primary aluminium,Contemporary supplier-set retained; technology overlay applied,Long-horizon technology-change evidence,Hybrid foreground overlay

@@ -1,0 +1,9 @@
+exchange_type,amount,unit,input_key,input_name,input_location,uncertainty_type,loc,scale,minimum,maximum,comment
+production,1.0,cubic meter,"('ecoinvent_3.10.1.1_consequential_unitprocess', 'f8027e13c3672f267e1d96eaf7b2f395')",natural gas venting from petroleum/natural gas production,GLO,0,1.0,,,,EcoSpold01Location=GLO
+biosphere,0.014,kilogram,"('ecoinvent-3.10-biosphere', 'aa7cac3a-3625-41d4-bc54-33e2cf11ec46')","Carbon dioxide, fossil",,2,-4.268697949366879,0.2503996805109783,,,Literature
+biosphere,0.001,kilogram,"('ecoinvent-3.10-biosphere', '76c79f4e-3cda-428e-b8f0-0ba8bbf272b6')",Helium,,2,-6.907755278982137,0.3044667469527666,,,Literature
+biosphere,1.5e-08,kilogram,"('ecoinvent-3.10-biosphere', '5ec9c16a-959d-44cd-be7d-a935727d2151')",Mercury II,,2,-18.0152156358442,0.8382720322186588,,,Literature
+biosphere,0.585,kilogram,"('ecoinvent-3.10-biosphere', '70ef743b-3ed5-4a6d-b192-fb6d62378555')","Methane, fossil",,2,-0.5361434317502807,0.3044667469527666,,,Literature
+biosphere,0.271,kilogram,"('ecoinvent-3.10-biosphere', '33b38ccb-593b-4b11-b965-10d747ba3556')","NMVOC, non-methane volatile organic compounds",,2,-1.305636458102436,0.3044667469527666,,,Literature
+biosphere,0.1,kilo Becquerel,"('ecoinvent-3.10-biosphere', '1551f1cd-7cb7-4f68-a628-cb9301323c7b')",Radon-222,,2,-2.3025850929940455,1.1704699910719625,,,"Literature, large variations"
+biosphere,1.0,standard cubic meter,"('ecoinvent-3.10-biosphere', '7c337428-fb1b-45c7-bbb2-2ee4d29e17ba')","Gas, natural",,2,0.0,0.2503996805109783,,,Calculation

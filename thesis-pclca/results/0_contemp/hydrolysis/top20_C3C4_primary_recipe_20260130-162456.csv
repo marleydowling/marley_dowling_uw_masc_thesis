@@ -1,0 +1,21 @@
+rank,contribution,database,code,location,name,activity_key,index
+1,2.565665521597319e-13,ecoinvent_3.10.1.1_consequential_unitprocess,bd4b1109355124047a21af49482664f0,RoW,"heat and power co-generation, lignite",252224264773640192,13041
+2,1.007443931880122e-13,ecoinvent_3.10.1.1_consequential_unitprocess,c510736aca37050154922e9f13484027,RU,"heat and power co-generation, hard coal",252224324710244352,17991
+3,6.165367729644028e-14,ecoinvent_3.10.1.1_consequential_unitprocess,766e4f76c79149785c287c9c444f945c,RU,"heat and power co-generation, lignite",252224165741928448,3717
+4,5.555788090009359e-14,ecoinvent_3.10.1.1_consequential_unitprocess,27adfe07cc735fbff529974b279bac9b,PL,"heat and power co-generation, hard coal",252224274219212800,13882
+5,3.9089190421587306e-14,ecoinvent_3.10.1.1_consequential_unitprocess,bbe685e0aff42aaf5bcb0387c5ea42fe,PL,"heat and power co-generation, lignite",252224253742620672,11984
+6,-1.8072239422740247e-14,ecoinvent_3.10.1.1_consequential_unitprocess,41f1d9f2223bad3e6360290180d4e606,PL,"electricity production, natural gas, combined cycle power plant",252224290518278144,14958
+7,1.588647360212301e-14,ecoinvent_3.10.1.1_consequential_unitprocess,c65938394f240dcf1b7886da269cd16f,RU,"heat and power co-generation, oil",252224142094442496,2855
+8,1.269458457253527e-14,ecoinvent_3.10.1.1_consequential_unitprocess,e5bfdbe136fb2e23a18525a181fb58c4,DE,"heat and power co-generation, hard coal",252224128123215872,1956
+9,1.2520182096101914e-14,ecoinvent_3.10.1.1_consequential_unitprocess,7ed185b511e781d30d116466107ae46b,RU,hard coal mine operation and hard coal preparation,252224211577282560,8015
+10,1.234995947929729e-14,ecoinvent_3.10.1.1_consequential_unitprocess,5c91d4ad32cc7aabf4536b362f73417d,CZ,"heat and power co-generation, lignite",252224319148597248,17532
+11,-1.2125763816793407e-14,ecoinvent_3.10.1.1_consequential_unitprocess,fc7517472a4a0bdbcd1a2c18ca01c4e4,RoW,"electricity production, lignite",252224212214816768,8032
+12,9.752882715452415e-15,ecoinvent_3.10.1.1_consequential_unitprocess,3252febf4974507c969b7bbadfa2ea81,RoW,"heat and power co-generation, natural gas, 200kW electrical, lean burn",252224204220473344,7244
+13,-9.024893398846231e-15,ecoinvent_3.10.1.1_consequential_unitprocess,8fb5d16a6b9d720c2f56837a827f1b31,RU,"electricity production, natural gas, combined cycle power plant",252224194728763392,6364
+14,-8.097961852404586e-15,ecoinvent_3.10.1.1_consequential_unitprocess,db4c7dff88c7525ed002817cc44ca909,RoW,"electricity production, natural gas, combined cycle power plant",252224227133956096,9577
+15,7.728551372567907e-15,ecoinvent_3.10.1.1_consequential_unitprocess,ef701b8e4ff777712b18b6c694812432,GR,"heat and power co-generation, lignite",252224124474171392,1620
+16,6.913615747503299e-15,ecoinvent_3.10.1.1_consequential_unitprocess,1bb8d650a0759c452f0385ff505d6bff,KR,"heat and power co-generation, hard coal",252224285824851968,14499
+17,6.485735046746585e-15,ecoinvent_3.10.1.1_consequential_unitprocess,97f3831585ab7de2c898482435da4724,DK,"heat and power co-generation, hard coal",252224160331276288,3216
+18,6.0219092387208835e-15,ecoinvent_3.10.1.1_consequential_unitprocess,a1dcf8a4c5ce154a41494708fa5bc5f9,DE,"heat and power co-generation, lignite",252224198763683840,6735
+19,5.6755273197692635e-15,ecoinvent_3.10.1.1_consequential_unitprocess,be5a06ec98a762d98fab57de3fce655c,IT,"heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical",252224221501005824,8994
+20,-5.633670754357414e-15,ecoinvent_3.10.1.1_consequential_unitprocess,96504536239fda2a2cf514d648673c2e,RoW,"quicklime production, in pieces, loose",252224139787575296,2657

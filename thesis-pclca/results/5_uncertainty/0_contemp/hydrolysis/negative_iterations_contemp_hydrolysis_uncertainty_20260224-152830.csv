@@ -1,0 +1,3 @@
+tag,iteration,case,method,score,contrib_csv
+contemp_hydrolysis_uncertainty,32,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",-6.701292904757353,C:\brightway_workspace\results\40_uncertainty\0_contemp\hydrolysis\top40_neg_iter32_contemp_hydrolysis_uncertainty_20260224-152830.csv
+contemp_hydrolysis_uncertainty,619,c3c4,"ReCiPe 2016 v1.03, midpoint (H) | climate change | global warming potential (GWP100)",-4.452327179783022,C:\brightway_workspace\results\40_uncertainty\0_contemp\hydrolysis\top40_neg_iter619_contemp_hydrolysis_uncertainty_20260224-152830.csv

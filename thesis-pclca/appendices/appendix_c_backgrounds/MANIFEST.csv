@@ -1,0 +1,11 @@
+filename,supports_thesis_item,description,format,generated_or_manual,source_or_script,redistributable_yes_no,notes
+README.md,Appendix C folder guide,Folder-level purpose and scope,markdown,generated,build_appendix_c_support.py,yes,
+MANIFEST.csv,Appendix C inventory,Machine-readable inventory of support files,csv,generated,build_appendix_c_support.py,yes,
+table_c1_contemporary_snapshot_record.csv,Table C1,Contemporary background snapshot record (28 rows),csv,generated,contemporary freeze record json/csv/summary + build_appendix_c_support.py,yes,
+table_c2_contemporary_archived_artifacts.csv,Table C2,Contemporary archived artifacts and checksums (3 rows),csv,generated,contemporary artifact checksums csv or summary fallback + build_appendix_c_support.py,yes,
+table_c3_prospective_structural_qa_summary.csv,Table C3,Prospective structural QA summary (3 rows),csv,generated,prospective freeze records json/csv/summary + build_appendix_c_support.py,yes,
+table_c4_prospective_identifiers_integrity.csv,Table C4,Prospective identifiers and integrity records (3 rows),csv,generated,prospective freeze records json/csv/summary + build_appendix_c_support.py,yes,
+table_c5_quality_assurance_checks.csv,Table C5,Quality assurance checks applied (7 rows),csv,generated,build_appendix_c_support.py,yes,
+background_hash_registry.csv,Appendix C hash support,Combined registry of freeze-record and artifact hashes (7 rows),csv,generated,freeze records + artifact checksums + build_appendix_c_support.py,yes,
+freeze_record_manifest.csv,Appendix C source manifest,Manifest of resolved Appendix C source files (8 rows),csv,generated,build_appendix_c_support.py,yes,
+validation_log.txt,Appendix C validation log,Run log showing source discovery and output row counts,text,generated,build_appendix_c_support.py,yes,"Confirms discovery and generation, not semantic perfection"

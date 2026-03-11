@@ -1,0 +1,165 @@
+{
+  "records": {
+    "canonical_credit_proxy_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_credit_primary_ingot_IAI_NA_QC_elec"
+      ],
+      "id": 282946082215895045,
+      "location": "CA-QC",
+      "name": "market for aluminium, primary, ingot (CANONICAL FG credit proxy; upstream providers QC-swapped)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "effective_stageD_provider_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_credit_primary_ingot_IAI_NA_QC_elec"
+      ],
+      "id": 282946082215895045,
+      "location": "CA-QC",
+      "name": "market for aluminium, primary, ingot (CANONICAL FG credit proxy; upstream providers QC-swapped)",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "rw_landfill_c3c4_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_RW_landfill_C3C4_CA"
+      ],
+      "id": 282946082085871624,
+      "location": "CA",
+      "name": "Route wrapper: Aluminium landfill (C3\u2013C4), CA",
+      "ref_product": "route wrapper service"
+    },
+    "rw_landfill_net_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_RW_landfill_NET_CA"
+      ],
+      "id": 282946081783881732,
+      "location": "CA",
+      "name": "Route wrapper NET: Aluminium landfill (C3\u2013C4 only; no Stage D), CA",
+      "ref_product": "route wrapper service"
+    },
+    "rw_recycling_c3c4_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_RW_recycling_postcons_refiner_C3C4_CA"
+      ],
+      "id": 282946083839090690,
+      "location": "CA",
+      "name": "Route wrapper: Aluminium recycling (C3\u2013C4), CA \u2014 refiner burdens-only",
+      "ref_product": "route wrapper service"
+    },
+    "rw_recycling_net_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_RW_recycling_postcons_NET_CA"
+      ],
+      "id": 282946083067338767,
+      "location": "CA",
+      "name": "Route wrapper NET: Aluminium recycling post-consumer (NET)",
+      "ref_product": "route wrapper service"
+    },
+    "rw_reuse_c3_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_RW_reuse_C3_CA"
+      ],
+      "id": 282946081104404481,
+      "location": "CA",
+      "name": "Route wrapper: Aluminium reuse (C3), CA \u2014 degreasing scaled by rho/t",
+      "ref_product": "route wrapper service"
+    },
+    "rw_reuse_net_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_RW_reuse_NET_CA"
+      ],
+      "id": 282946083000229894,
+      "location": "CA",
+      "name": "Route wrapper NET: Aluminium reuse (C3) + Stage D, CA",
+      "ref_product": "route wrapper service"
+    },
+    "sd_recycling_postcons_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_SD_credit_recycling_postcons_QC"
+      ],
+      "id": 282946083067338753,
+      "location": "CA-QC",
+      "name": "Stage D credit (recycling, post-consumer): avoid canonical ingot provider \u00d7 recovered yield",
+      "ref_product": "credit service"
+    },
+    "sd_reuse_combined_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_SD_credit_reuse_QC_ingot_plus_extrusion"
+      ],
+      "id": 282946082375278593,
+      "location": "CA",
+      "name": "Stage D credit (reuse): avoid canonical primary ingot (QC) + avoid extrusion (CA)",
+      "ref_product": "credit service"
+    },
+    "up_avoided_extrusion_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_UP_avoided_impact_extrusion_CA"
+      ],
+      "id": 282946082194923522,
+      "location": "CA",
+      "name": "Avoided product proxy (Stage D): impact extrusion (CA marginal electricity)",
+      "ref_product": "impact extrusion of aluminium, 2 strokes"
+    },
+    "up_avoided_ingot_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_UP_avoided_primary_ingot_QC"
+      ],
+      "id": 282946082681462786,
+      "location": "CA-QC",
+      "name": "Avoided product proxy (Stage D): primary aluminium ingot (QC marginal electricity) [LEGACY - prefer canonical AL_credit_primary_ingot_IAI_NA_QC_elec]",
+      "ref_product": "aluminium, primary, ingot"
+    },
+    "up_degrease_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_UP_degreasing_CA"
+      ],
+      "id": 282946081494474761,
+      "location": "CA",
+      "name": "Reuse treatment unit process: degreasing (CA-regionalized)",
+      "ref_product": "degreasing, metal part in alkaline bath"
+    },
+    "up_landfill_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_UP_landfill_CA"
+      ],
+      "id": 282946082299781120,
+      "location": "CA",
+      "name": "Aluminium EoL unit process: sanitary landfill (CA-regionalized)",
+      "ref_product": "waste aluminium"
+    },
+    "up_refiner_postcons_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_UP_refiner_postcons_CA"
+      ],
+      "id": 282946082215895043,
+      "location": "CA",
+      "name": "Recycling unit process: post-consumer refiner (CA-regionalized) [BASE]",
+      "ref_product": "aluminium scrap, post-consumer, prepared for melting"
+    },
+    "up_refiner_postcons_no_credit_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "AL_UP_refiner_postcons_NO_CREDIT_CA"
+      ],
+      "id": 282946081301536775,
+      "location": "CA",
+      "name": "Recycling unit process: post-consumer refiner (CA-regionalized) [BASE] [NO embedded credit; burdens-only for decomposition]",
+      "ref_product": "aluminium scrap, post-consumer, prepared for melting"
+    }
+  },
+  "version": "al_base_routes_contemp_uncertainty_v1"
+}

@@ -1,0 +1,215 @@
+{
+  "records": {
+    "aloh3_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "ed820d7aa1c36c9bfe460d8250858239"
+      ],
+      "id": 252224219122835456,
+      "location": "GLO",
+      "name": "market for aluminium hydroxide",
+      "ref_product": "aluminium hydroxide"
+    },
+    "aloh3_proxy_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "aloh3_market_proxy_GLO_contemp"
+      ],
+      "id": 282946082480136197,
+      "location": "GLO",
+      "name": "Aluminium hydroxide market (GLO base; proxy; contem; UNMODIFIED receiving system)",
+      "ref_product": "aluminium hydroxide"
+    },
+    "di_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "f169cf5ee8f78adaafe7579c0852b8d7"
+      ],
+      "id": 252224193294311424,
+      "location": "RoW",
+      "name": "water production, deionised",
+      "ref_product": "water, deionised"
+    },
+    "di_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "di_water_CA"
+      ],
+      "id": 282946083067338757,
+      "location": "CA",
+      "name": "Water, deionised (CA proxy; utilities localized; AB electricity)",
+      "ref_product": "water, deionised"
+    },
+    "electrolyte_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "naoh_electrolyte_solution_CA"
+      ],
+      "id": 282946082085871627,
+      "location": "CA",
+      "name": "NaOH electrolyte solution (CA; 0.240 M; Option B mix)",
+      "ref_product": "electrolyte solution"
+    },
+    "h2_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "cdeb3c2e1d3c5181231d435d726b5c4a"
+      ],
+      "id": 252224238479548418,
+      "location": "US",
+      "name": "market for hydrogen, gaseous, low pressure",
+      "ref_product": "hydrogen, gaseous, low pressure"
+    },
+    "h2_proxy_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "h2_market_low_pressure_proxy_CA_contemp_RoW_base"
+      ],
+      "id": 282946081628692481,
+      "location": "US",
+      "name": "Hydrogen market, gaseous, low pressure (US base; no CA/AB localization; contem)",
+      "ref_product": "hydrogen, gaseous, low pressure"
+    },
+    "hydrolysis_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "al_hydrolysis_treatment_CA"
+      ],
+      "id": 282946083331579911,
+      "location": "CA",
+      "name": "Aluminium hydrolysis route (CA; GATE BASIS; PSA included; AB electricity)",
+      "ref_product": "treated aluminium scrap (hydrolysis route basis; per kg gate scrap)"
+    },
+    "naoh_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "c8eda09cedbbd07324bd140129a80c12"
+      ],
+      "id": 252224262282223616,
+      "location": "RoW",
+      "name": "market for sodium hydroxide, without water, in 50% solution state",
+      "ref_product": "sodium hydroxide, without water, in 50% solution state"
+    },
+    "naoh_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "naoh_CA_proxy"
+      ],
+      "id": 282946082413027332,
+      "location": "CA",
+      "name": "Sodium hydroxide, 50% solution (CA proxy; utilities localized; AB electricity)",
+      "ref_product": "sodium hydroxide, without water, in 50% solution state"
+    },
+    "prep_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "al_scrap_shredding_for_hydrolysis_CA"
+      ],
+      "id": 282946083683901440,
+      "location": "CA",
+      "name": "Shredding / preparation of aluminium scrap for hydrolysis (CA)",
+      "ref_product": "prepared aluminium scrap for hydrolysis"
+    },
+    "psa_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "773ad5f2685b5ff6c429256c12725c76"
+      ],
+      "id": 252224299598946305,
+      "location": "RoW",
+      "name": "biogas purification to biomethane by pressure swing adsorption",
+      "ref_product": "biomethane, high pressure"
+    },
+    "psa_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "h2_purification_psa_service_CA"
+      ],
+      "id": 282946081301536781,
+      "location": "CA",
+      "name": "H2 purification service (PSA proxy via biogas PSA; CA; AB electricity)",
+      "ref_product": "biomethane, high pressure"
+    },
+    "scrap_gate_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "a9faf1732e80f7dc64672e1792d766b7"
+      ],
+      "id": 252224286336557056,
+      "location": "RoW",
+      "name": "treatment of aluminium scrap, post-consumer, by collecting, sorting, cleaning, pressing",
+      "ref_product": "aluminium scrap, post-consumer"
+    },
+    "scrap_gate_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "al_scrap_postconsumer_CA_gate"
+      ],
+      "id": 282946083818119168,
+      "location": "CA",
+      "name": "Aluminium scrap, post-consumer, at gate (CA; proxy; Gate A clean feedstock)",
+      "ref_product": "aluminium scrap, post-consumer"
+    },
+    "smr_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "bb0222e3f006a12c8928a1ec07ce28f8"
+      ],
+      "id": 252224181474762752,
+      "location": "US",
+      "name": "hydrogen production, steam methane reforming",
+      "ref_product": "hydrogen, gaseous, low pressure"
+    },
+    "smr_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "h2_production_smr_proxy_CA_contemp_ABelec"
+      ],
+      "id": 282946083600015362,
+      "location": "US",
+      "name": "Hydrogen production, SMR (US base; electricity export credit stripped; contem)",
+      "ref_product": "hydrogen, gaseous, low pressure"
+    },
+    "stageD_aloh3_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "StageD_hydrolysis_AlOH3_offset_NA_contemp"
+      ],
+      "id": 282946081603526658,
+      "location": "CA",
+      "name": "Stage D credit: displaced aluminium hydroxide from aluminium hydrolysis (GLO receiving; 2025 contem; GATE BASIS)",
+      "ref_product": "treated aluminium scrap (hydrolysis route basis) [Stage D credit only]"
+    },
+    "stageD_h2_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "StageD_hydrolysis_H2_offset_CA_contemp"
+      ],
+      "id": 282946081494474753,
+      "location": "CA",
+      "name": "Stage D credit: displaced hydrogen (LP) from aluminium hydrolysis (US receiving; 2025 contem; GATE BASIS)",
+      "ref_product": "treated aluminium scrap (hydrolysis route basis) [Stage D credit only]"
+    },
+    "ww_bg_src": {
+      "bw_key": [
+        "ecoinvent_3.10.1.1_consequential_unitprocess",
+        "2ad3f9384aa04b57c52fd447f7b33ab5"
+      ],
+      "id": 252224122389602309,
+      "location": "RoW",
+      "name": "treatment of wastewater from lorry production, wastewater treatment, urban",
+      "ref_product": "wastewater from lorry production"
+    },
+    "ww_fg": {
+      "bw_key": [
+        "mtcw_foreground_contemporary_uncertainty_analysis",
+        "wastewater_treatment_unpolluted_CAe"
+      ],
+      "id": 282946082341724165,
+      "location": "CA",
+      "name": "Wastewater treatment proxy (lorry/urban preferred; CA proxy; AB electricity)",
+      "ref_product": "wastewater from lorry production"
+    }
+  },
+  "version": "hydrolysis_contemp_uncertainty_v1"
+}

@@ -1,0 +1,4 @@
+metric,database_name,timestamp_utc,brightway_project,activities,total_exchanges,technosphere_exchanges,biosphere_exchanges,production_exchanges,substitution_exchanges,unique_locations,activities_missing_location,missing_input_refs,missing_input_db_refs,broken_internal_technosphere_links,unexpected_external_technosphere_deps,biosphere_dbs_detected,matrix_processable,matrix_process_message
+SSP1-VLLO,prospective_conseq_IMAGE_SSP1VLLO_2050_PERF,2026-03-10T21:15:00.682128+00:00,pCLCA_CA_2025_prospective,26665,734784,313406,421378,26665,0,356,0,0,0,0,0,ecoinvent-3.10.1-biosphere,TRUE,ok
+SSP2-M,prospective_conseq_IMAGE_SSP2M_2050_PERF,2026-03-10T21:15:00.682128+00:00,pCLCA_CA_2025_prospective,26664,734393,313020,421373,26664,0,356,0,0,0,0,0,ecoinvent-3.10.1-biosphere,TRUE,ok
+SSP5-H,prospective_conseq_IMAGE_SSP5H_2050_PERF,2026-03-10T21:15:00.682128+00:00,pCLCA_CA_2025_prospective,26664,734519,313156,421363,26664,0,356,0,0,0,0,0,ecoinvent-3.10.1-biosphere,TRUE,ok

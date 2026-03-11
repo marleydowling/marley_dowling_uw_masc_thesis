@@ -1,0 +1,14 @@
+sheet_index,sheet_name,sheet_state,max_row,max_column
+1,LCI,visible,27,11
+2,Elec_Parameters,visible,9,2
+3,CA_Elec_Contemp,visible,27,11
+4,CA_Elec_Prospect,visible,28,10
+5,ON_Elec_Contemp,visible,27,11
+6,QC_Elec_Contemp,visible,27,10
+7,BC_Elec_Contemp,visible,27,7
+8,AB_Elec_Contemp,visible,27,10
+9,Other_Parameters,visible,9,2
+10,CA_Ingot_Contemp,visible,37,13
+11,All Alum. Producers Contemp,visible,115,21
+12,Hydrogen Prod Current,visible,69,21
+13,AB Hydrogen Production Calcs,visible,77,41

@@ -1,0 +1,22 @@
+{
+  "scenario": "SSP5H_2050",
+  "bg_db": "prospective_conseq_IMAGE_SSP5H_2050_PERF",
+  "FU_AL_KG": 3.67,
+  "picked": {
+    "reuse": {
+      "c3c4": "('mtcw_foreground_prospective', 'AL_RW_reuse_C3_CA__SSP5H_2050')",
+      "net": "('mtcw_foreground_prospective', 'AL_RW_reuse_NET_CA__SSP5H_2050')",
+      "stageD": "('mtcw_foreground_prospective', 'AL_SD_credit_reuse_ingot_plus_extrusion_CA__SSP5H_2050')"
+    },
+    "recycling_postcons": {
+      "c3c4": "('mtcw_foreground_prospective', 'AL_RW_recycling_postcons_refiner_C3C4_CA__SSP5H_2050')",
+      "net": "('mtcw_foreground_prospective', 'AL_RW_recycling_postcons_NET_CA__SSP5H_2050')",
+      "stageD": "('mtcw_foreground_prospective', 'AL_SD_credit_recycling_postcons_CA__SSP5H_2050')"
+    },
+    "landfill": {
+      "c3c4": "('mtcw_foreground_prospective', 'AL_RW_landfill_C3C4_CA__SSP5H_2050')",
+      "net": "('mtcw_foreground_prospective', 'AL_RW_landfill_NET_CA__SSP5H_2050')",
+      "stageD": null
+    }
+  }
+}

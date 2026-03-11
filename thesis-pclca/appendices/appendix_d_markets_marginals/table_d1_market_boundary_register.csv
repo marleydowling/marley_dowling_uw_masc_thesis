@@ -1,0 +1,7 @@
+route_credited_output,displaced_market,functional_specification_basis,geography,marginal_mix_treatment
+Reuse,Aluminium non-structural facade components,"Like-for-like facade-component service; fit, geometry, and service duty govern eligibility",Canada-wide,"Final implementation retained the facade-component/service claim, but Stage D was represented using the same primary-aluminium marginal mix as conventional recycling together with an avoided-extrusion proxy"
+Conventional recycling,Wrought extrusion feedstock (billet),Billet suitable for 6000-series extrusion after standard cast-house conditioning,Canada-wide,Foreground-constructed for contemporary; prospective supplier-set overlay
+MS-FSC,Wrought extrusion feedstock (billet),"Billet-equivalent output suitable for 6000-series extrusion, subject to pass / quality gate",Canada-wide,Same displaced market class as conventional recycling
+Hydrolysis - H2,Industrial merchant gaseous hydrogen,"Bulk industrial gaseous hydrogen, independent of production route",Canada-wide,Contemporary foreground-constructed hydrogen marginal mix; final central case resolved to Alberta Energy Regulator SMR. Prospective hydrogen inherited where represented
+Hydrolysis - Al(OH)3,Aluminium hydroxide supply market,Routine solids-handling compatible aluminium hydroxide product form,Background market geography used in implementation,Inherited from background market; no custom marginal mix constructed
+Landfill,None,No displaced product or service,N/A,No Stage D credit

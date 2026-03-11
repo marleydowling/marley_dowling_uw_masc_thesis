@@ -1,0 +1,9 @@
+parameter,2025_contemporary,2050_prospective,interpretation
+Shredding electricity,0.30 kWh/kg scrap,0.30 kWh/kg scrap,Burden-side shredding electricity
+Shred yield,0.8,0.8,Usable shredded feedstock from prepared scrap
+FSC retained yield,0.952,0.952,Billet output per kg shredded/degreased feed
+Consolidation energy (A),0.267 MJ per 20 g billet,0.267 MJ per 20 g billet,Productive consolidation energy
+Transition energy (B),0.355 MJ per 20 g billet,0.355 MJ per 20 g billet,Transition / ramp overhead
+Include transition term?,True,False,Determines whether (B) is included in baseline electricity
+Lubricating oil,0.02 kg/kg billet,0.02 kg/kg billet,Process consumable
+Stage D substitution ratio,1.0,1.0,kg avoided primary ingot per kg billet-equivalent output
