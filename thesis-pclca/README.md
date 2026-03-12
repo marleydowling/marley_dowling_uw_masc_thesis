@@ -24,7 +24,6 @@ It contains the minimum documentation needed to audit the modelling workflow, in
 - Appendix D: Market boundaries and marginal supplier mixes
 - Appendix E: Cross-indicator and supplementary result material
 - Appendix F: Uncertainty propagation and sensitivity analysis
-- Appendix G: Repository guide and reproducibility support
 
 ## Reproducibility note
 This repository is intended to provide an auditable record of the thesis workflow. Some large databases, licensed background data, and generated outputs may not be redistributed directly.
